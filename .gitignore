@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Power BI
+*.pbix.backup
+*.pbit.backup
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large temporary exports
+*.tmp
+
+# Root-level duplicate CSVs (tracked under data/raw/ and data/hidden/)
+/customers.csv
+/products.csv
+/transactions.csv
+/data_quality_injection_log.csv
