@@ -1,0 +1,766 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Cost_Price,Listed_Price,Supplier,Product_Rating
+PRD-0314,ITC Snacks Model-665,Grocery,Snacks,ITC,5452.67,10289.84,Supplier-Gamma-12,3.4
+PRD-0200,Studds Car Accessories Model-236,Automotive,Car Accessories,Studds,33842.53,44716.15,Supplier-Beta-12,
+PRD-0058,Woodland Casual Model-723,Footwear,Casual,Woodland,10707.34,20041.13,Supplier-Delta-1,2.0
+PRD-0380,Nike Women Model-976,Clothing,Women,Nike,5194.95,11406.18,Supplier-Beta-19,3.5
+PRD-0491,Canon Audio Model-748,Electronics,Audio,Canon,2758.45,4391.9,Supplier-Omega-5,1.9
+PRD-0103,Studds Bike Accessories Model-258,Automotive,Bike Accessories,Studds,15896.55,29079.07,Supplier-Beta-18,10.0
+PRD-0578,Cosco Football Model-417,Sports,Football,Cosco,15634.93,20669.04,Supplier-Alpha-4,
+PRD-0297,Samsung Refrigerators Model-580,Home Appliances,Refrigerators,Samsung,20475.17,"27,452.73",Supplier-Beta-1,4.3
+PRD-0434,Godrej Tables Model-305,Furniture,Tables,Godrej,4345.35,10673.41,Supplier-Alpha-4,3.1
+PRD-0728,Vega Car Accessories Model-631,Automotive,Car Accessories,Vega,21129.29,44729.27,Supplier-Delta-10,1.8
+PRD-0392,Belkin Power Banks Model-765,Mobile Accessories,Power Banks,Belkin,25167.91,39514.73,Supplier-Omega-20,6.0
+PRD-0673,LG Cameras Model-379,Electronics,,LG,24482.58,39909.57,Supplier-Beta-2,4.8
+PRD-0154,Lego Action Figures Model-491,Toys,Action Figures,,28077.46,"40,261.98",Supplier-Alpha-4,2.7
+PRD-0723,Anker Power Banks Model-886,Mobile Accessories,Power Banks,Anker,16294.01,34800.93,Supplier-Alpha-6,4.5
+PRD-0623,Godrej Tables Model-936,Furniture,Tables,Godrej,26397.25,32245.11,Supplier-Gamma-18,3.4
+PRD-0003,Hawkins Cookware Model-854,Kitchen,Cookware,Hawkins,14143.47,17777.51,Supplier-Gamma-8,1.2
+PRD-0249,Penguin Academic Model-419,Books,Academic,Penguin,14261.52,18969.69,Supplier-Beta-11,3.6
+PRD-0357,Sony Audio Model-129,Electronics,Audio,Sony,5543.97,7199.24,Supplier-Alpha-20,1.6
+PRD-0579,Pepperfry Tables Model-138,Furniture,Tables,Pepperfry,20527.54,35261.03,Supplier-Alpha-7,1.0
+PRD-0302,Canon Televisions Model-744,Electronics,Televisions,Canon,5750.83,6984.3,Supplier-Delta-1,4.8
+PRD-0681,Royal Canin Toys Model-205,Pet Supplies,Toys,Royal Canin,16726.14,37180.47,Supplier-Beta-8,2.8
+PRD-0104,Samsung Refrigerators Model-322,Home Appliances,Refrigerators,Samsung,30593.75,"45,962.87",Supplier-Gamma-18,3.9
+PRD-0189,Nivia Cricket Model-330,Sports,Cricket,Nivia,17610.43,25786.04,Supplier-Alpha-2,2.1
+PRD-0474,Decathlon Fitness Model-212,Sports,Fitness,Decathlon,12765.81,9845.85,Supplier-Beta-15,1.5
+PRD-0114,MAC Skincare Model-773,Beauty,Skincare,MAC,27769.03,37491.44,Supplier-Alpha-18,1.5
+PRD-0248,Maybelline Skincare Model-210,Beauty,Skincare,Maybelline,18078.88,28244.7,Supplier-Beta-9,1.7
+PRD-0386,Nestle Staples Model-990,Grocery,Staples,Nestle,2457.7,5084.69,Supplier-Alpha-6,4.3
+PRD-0310,FabIndia Kids Model-161,Clothing,Kids,FabIndia,29472.2,37311.43,Supplier-Alpha-4,4.1
+PRD-0203,Woodland Casual Model-536,Footwear,Casual,Woodland,8503.42,16113.06,Supplier-Omega-5,-1.0
+PRD-0697,Anker Cases Model-642,Mobile Accessories,Cases,Anker,15428.85,29883.84,Supplier-Beta-18,1.3
+PRD-0444,Bosch Tools Model-565,Automotive,Tools,Bosch,11550.34,19896.04,,3.8
+PRD-0749,Samsung Microwaves Model-851,Home Appliances,Microwaves,Samsung,7005.5,9501.62,Supplier-Omega-9,
+PRD-0704,Mi Power Banks Model-810,Mobile Accessories,Power Banks,Mi,11163.42,23195.87,Supplier-Alpha-5,2.8
+PRD-0655,Sony Audio Model-750,Electronics ,Audio,Sony,8594.48,19944.45,Supplier-Gamma-4,2.7
+PRD-0075,Pedigree Toys Model-702,Pet Supplies,Toys,Pedigree,10857.83,14759.97,Supplier-Beta-14,1.9
+PRD-0504,Prestige Cookware Model-195,Kitchen,Cookware,Prestige,1395.44,1759.69,Supplier-Omega-16,3.5
+PRD-0523,Puma Sneakers Model-990,Footwear,Sneakers,Puma,5476.98,10940.25,Supplier-Gamma-2,
+PRD-0080,Loreal Makeup Model-626,Beauty,Makeup,Loreal,28018.05,45766.95,Supplier-Gamma-16,4.5
+PRD-0587,Cosco Fitness Model-616,Sports,Fitness,Cosco,2661.44,5199.53,Supplier-Alpha-8,-1.0
+PRD-0394,FabIndia Kids Model-489,Clothing,Kids,FabIndia,13072.21,32585.79,Supplier-Alpha-5,1.2
+PRD-0229,Oxford Academic Model-778,Books,Academic,Oxford,11793.05,17739.63,Supplier-Omega-8,3.7
+PRD-0151,Puma Sneakers Model-854,Footwear,Sneakers,Puma,15845.31,21055.76,Supplier-Omega-19,4.4
+PRD-0665,Sony Televisions Model-833,Electronics,Televisions,Sony,15178.24,29475.97,Supplier-Beta-9,
+PRD-0136,LG Audio Model-145,Electronics,Audio,LG,21536.37,43917.12,Supplier-Delta-9,
+PRD-0533,Nivia Cricket Model-553,Sports,Cricket,Nivia,19275.58,24929.63,Supplier-Omega-12,4.8
+PRD-0638,Pepperfry Chairs Model-812,Furniture,Chairs,Pepperfry,8913.43,21369.51,Supplier-Beta-5,2.7
+PRD-0118,Royal Canin Grooming Model-568,Pet Supplies,Grooming,Royal Canin,2375.32,3222.42,Supplier-Gamma-10,4.6
+PRD-0515,Vega Car Accessories Model-965,Automotive,Car Accessories,Vega,31513.33,49269.1,Supplier-Omega-17,3.4
+PRD-0169,Nike Kids Model-360,Clothing,Kids,Nike,53240.33,39833.77,Supplier-Omega-12,3.7
+PRD-0070,Decathlon Football Model-830,Sports,Football,Decathlon,9414.19,12686.86,Supplier-Alpha-19,3.3
+PRD-0481,Zara Women Model-625,Clothing,Women,Zara,14746.76,36054.61,Supplier-Gamma-15,3.8
+PRD-0667,Dell Laptops Model-910,Computers,Laptops,Dell,19627.23,45521.44,Supplier-Alpha-8,1.0
+PRD-0498,Puma Formal Model-523,Footwear,Formal,Puma,19572.47,35212.11,Supplier-Beta-11,3.0
+PRD-0514,Studds Tools Model-329,Automotive,Tools,Studds,19914.67,28310.54,Supplier-Omega-16,4.5
+PRD-0285,Adidas Formal Model-336,Footwear,,Adidas,7299.94,10015.37,Supplier-Omega-11,3.5
+PRD-0721,Dell Desktops Model-560,Computers,Desktops,Dell,8556.86,12669.82,Supplier-Beta-19,10.0
+PRD-0173,Dell Desktops Model-780,Computers,Desktops,,1587.74,3358.49,Supplier-Beta-19,1.2
+PRD-0452,IKEA Sofas Model-138,Furniture,Sofas,IKEA,20224.82,29393.31,Supplier-Delta-15,1.5
+PRD-0490,Loreal Skincare Model-229,Beauty,Skincare,Loreal,10938.3,16233.3,Supplier-Delta-14,4.8
+PRD-0639,Bosch Refrigerators Model-559,Home Appliances,Refrigerators,Bosch,32256.76,43839.44,Supplier-Omega-11,1.8
+PRD-0495,Nike Formal Model-912,Footwear,Formal,Nike,3105.64,6182.71,Supplier-Beta-18,3.5
+PRD-0501,Mi Chargers Model-781,Mobile Accessories,Chargers,Mi,12979.6,16826.5,Supplier-Alpha-16,4.7
+PRD-0340,Mattel Board Games Model-699,Toys,Board Games,Mattel,19741.43,26616.28,Supplier-Omega-8,1.2
+PRD-0138,Maybelline Skincare Model-265,Beauty,Skincare,Maybelline,1841.37,2392.48,Supplier-Gamma-10,2.1
+PRD-0426,Penguin Non-Fiction Model-721,Books,Non-Fiction,Penguin,5307.03,12448.91,Supplier-Alpha-12,4.0
+PRD-0222,Funskool Board Games Model-651,Toys,Board Games,Funskool,5187.17,7429.57,Supplier-Beta-2,1.6
+PRD-0369,Samsung Refrigerators Model-891,Home Appliances,Refrigerators,Samsung,15467.61,24343.56,Supplier-Delta-15,4.4
+PRD-0113,Bosch Tools Model-734,Automotive,Tools,Bosch,13125.46,18868.11,Supplier-Alpha-5,4.3
+PRD-0719,Apple Desktops Model-943,Computers,Desktops,Apple,27256.18,36773.87,Supplier-Gamma-8,10.0
+PRD-0663,Funskool Educational Model-812,Toys,Educational,Funskool,29867.04,42648.45,Supplier-Delta-19,6.0
+PRD-0388,Britannia Staples Model-115,Grocery,Staples,Britannia,21465.57,36318.47,Supplier-Delta-10,3.9
+PRD-0171,Asus Laptops Model-925,Computers,Laptops,Asus,56527.66,42112.47,Supplier-Alpha-2,
+PRD-0399,Sony Cameras Model-544,Electronics,Cameras,Sony,3632.54,5257.14,Supplier-Gamma-14,3.1
+PRD-0428,Urban Ladder Sofas Model-794,Furniture,Sofas,Urban Ladder,4354.51,8317.39,Supplier-Alpha-4,1.6
+PRD-0209,Milton Cookware Model-550,Kitchen,Cookware,Milton,27545.4,18895.43,Supplier-Beta-15,1.9
+PRD-0650,Milton Cookware Model-346,Kitchen,Cookware,Milton,3366.76,4472.74,Supplier-Alpha-6,4.3
+PRD-0016,Pepperfry Beds Model-649,Furniture,Beds,Pepperfry,21046.6,46549.91,Supplier-Delta-1,1.1
+PRD-0427,Anker Chargers Model-751,Mobile Accessories,Chargers,Anker,13405.04,28902.72,Supplier-Omega-20,3.2
+PRD-0006,Lakme Skincare Model-338,Beauty,Skincare,Lakme,12145.55,24151.92,Supplier-Beta-5,
+PRD-0315,Mattel Action Figures Model-102,Toys,Action Figures,Mattel,8529.51,18992.47,Supplier-Gamma-13,4.3
+PRD-0505,Lego Board Games Model-862,Toys,Board Games,Lego,19640.42,41541.19,Supplier-Delta-16,
+PRD-0110,Nike Sneakers Model-709,Footwear,Sneakers,Nike,22478.95,38891.23,Supplier-Beta-2,4.8
+PRD-0059,Godrej Sofas Model-482,Furniture,Sofas,Godrej,18602.86,23911.86,Supplier-Gamma-11,2.9
+PRD-0355,Canon Audio Model-234,Electronics,Audio,Canon,25531.54,35363.67,Supplier-Delta-6,1.9
+PRD-0017,Bosch Refrigerators Model-180,Home Appliances,Refrigerators,Bosch,27743.08,48713.7,Supplier-Alpha-13,4.5
+PRD-0453,MAC Makeup Model-218,Beauty,Makeup,MAC,7693.23,14737.53,Supplier-Gamma-3,1.5
+PRD-0377,Canon Cameras Model-486,Electronic,Cameras,Canon,34713.24,41348.6,,2.2
+PRD-0310,FabIndia Kids Model-161,Clothing,Kids,FabIndia,29472.2,37311.43,Supplier-Alpha-4,4.1
+PRD-0214,Mattel Educational Model-823,Toys,Educational,Mattel,31100.91,49313.54,Supplier-Alpha-8,3.2
+PRD-0450,Funskool Action Figures Model-817,Toys,Action Figures,Funskool,13267.18,18917.41,Supplier-Delta-12,
+PRD-0674,Maybelline Skincare Model-547,Beauty,Skincare,Maybelline,5860.41,12986.18,Supplier-Omega-14,4.0
+PRD-0294,Cosco Cricket Model-666,Sports,Cricket,Cosco,15150.4,29714.46,Supplier-Alpha-1,1.9
+PRD-0204,Tupperware Tools Model-262,Kitchen,Tools,Tupperware,5975.83,4659.91,Supplier-Beta-1,1.7
+PRD-0291,Mi Cases Model-332,Mobile Accessories,Cases,Mi,21286.84,"25,329.89",Supplier-Beta-18,2.8
+PRD-0642,Himalaya Food Model-213,Pet Supplies,Food,Himalaya,22154.91,49517.55,Supplier-Delta-8,4.5
+PRD-0524,Himalaya Food Model-171,Pet Supplies,Food,Himalaya,26810.15,32270.46,Supplier-Delta-9,
+PRD-0626,Nivia Fitness Model-667,Sports,Fitness,Nivia,21639.73,28055.83,Supplier-Omega-3,2.3
+PRD-0445,Milton Storage Model-698,Kitchen,Storage,Milton,12075.77,21368.11,Supplier-Delta-3,1.7
+PRD-0712,Hawkins Storage Model-224,Kitchen,Storage,Hawkins,9693.75,13684.32,Supplier-Alpha-19,3.0
+PRD-0274,Samsung Televisions Model-837,Electronics ,Televisions,Samsung,25079.42,48754.6,Supplier-Gamma-11,3.2
+PRD-0201,Urban Ladder Tables Model-873,Furniture,Tables,Urban Ladder,4502.69,6480.98,Supplier-Alpha-6,1.3
+PRD-0520,Hasbro Educational Model-129,Toys,Educational,Hasbro,20223.11,37097.26,Supplier-Delta-18,3.7
+PRD-0471,Decathlon Cricket Model-436,Sports,Cricket,Decathlon,11935.85,20428.83,Supplier-Omega-4,4.6
+PRD-0442,Hasbro Educational Model-192,Toys,Educational,Hasbro,10365.94,15014.82,Supplier-Beta-12,
+PRD-0352,ITC Snacks Model-630,Grocery,Snacks,ITC,16561.03,₹28678.88,Supplier-Delta-16,1.1
+PRD-0183,Vega Tools Model-576,Automotive,Tools,Vega,9854.33,20045.01,Supplier-Delta-19,3.8
+PRD-0124,Mattel Board Games Model-548,Toys,Board Games,Mattel,13227.43,26740.6,Supplier-Delta-16,1.5
+PRD-0126,Prestige Tools Model-783,Kitchen,Tools,Prestige,34206.43,45662.63,Supplier-Alpha-1,3.3
+PRD-0729,IKEA Chairs Model-356,Furniture,,IKEA,32278.7,49574.19,Supplier-Delta-9,2.2
+PRD-0054,Tata Beverages Model-839,Grocery,Beverages,Tata,50241.31,41148.38,Supplier-Omega-11,4.5
+PRD-0582,Himalaya Food Model-573,Pet Supplies,Food,Himalaya,2445.9,3842.87,Supplier-Beta-17,2.5
+PRD-0564,Spigen Power Banks Model-643,Mobile Accessories,Power Banks,Spigen,20684.81,47706.64,,3.8
+PRD-0621,Studds Tools Model-572,Automotive,Tools,Studds,9897.27,22784.43,Supplier-Beta-13,
+PRD-0261,Maybelline Skincare Model-730,Beauty,Skincare,Maybelline,21321.63,42548.34,Supplier-Beta-7,1.2
+PRD-0127,Nestle Staples Model-779,Grocery,Staples,Nestle,24112.28,29278.22,Supplier-Gamma-19,4.7
+PRD-0416,H&M Women Model-806,CLOTHING,Women,H&M,4555.26,5757.65,,3.4
+PRD-0167,Hasbro Educational Model-546,Toys,Educational,,14361.27,"26,203.93",Supplier-Omega-3,
+PRD-0616,Godrej Chairs Model-554,Furniture,Chairs,Godrej,2671.34,5808.34,Supplier-Delta-4,2.4
+PRD-0358,3M Tools Model-826,Automotive,Tools,3M,13604.64,10267.0,Supplier-Gamma-8,3.7
+PRD-0569,Samsung Televisions Model-716,Electronics,Televisions,Samsung,5521.68,8142.59,Supplier-Alpha-14,3.3
+PRD-0585,Godrej Tables Model-163,Furniture,Tables,Godrej,27782.87,48386.58,Supplier-Alpha-14,2.5
+PRD-0510,Tupperware Tools Model-988,Kitchen,Tools,Tupperware,6889.81,11014.55,,
+PRD-0188,Royal Canin Grooming Model-195,Pet Supplies,Grooming,Royal Canin,34138.72,43722.16,Supplier-Beta-19,4.6
+PRD-0163,Bosch Car Accessories Model-998,Automotive,Car Accessories,,18271.75,"27,394.94",Supplier-Omega-12,2.6
+PRD-0534,Yonex Football Model-597,Sports,Football,Yonex,1848.76,3405.41,Supplier-Omega-9,6.0
+PRD-0354,Lego Board Games Model-308,Toys,Board Games,Lego,27701.09,37632.54,,4.0
+PRD-0064,Tata Snacks Model-187,Grocery,Snacks,Tata,40752.81,48896.14,Supplier-Omega-19,
+PRD-0689,Bose Cameras Model-472,Electronics,Cameras,Bose,15729.55,19235.33,Supplier-Gamma-19,4.2
+PRD-0537,Whirlpool Microwaves Model-453,Home Appliance,Microwaves,Whirlpool,25211.05,36024.12,Supplier-Gamma-10,4.9
+PRD-0512,LG Cameras Model-460,Electronics,Cameras,LG,25071.63,38998.95,Supplier-Omega-10,4.7
+PRD-0556,LG Washing Machines Model-920,Home Appliances,Washing Machines,LG,1682.15,3459.07,,4.7
+PRD-0241,ITC Snacks Model-304,Grocery,Snacks,ITC,11820.62,17787.46,Supplier-Delta-8,4.6
+PRD-0287,Canon Televisions Model-880,Electronics,Televisions,Canon,13404.98,26515.51,Supplier-Delta-15,2.6
+PRD-0239,Oxford Fiction Model-170,Books,Fiction,Oxford,7998.47,"17,179.20",Supplier-Gamma-13,6.0
+PRD-0513,Lakme Skincare Model-258,Beauty,Skincare,Lakme,3929.04,5756.18,Supplier-Beta-15,2.7
+PRD-0328,Asus Monitors Model-395,Computers,Monitors,Asus,10830.88,15844.02,Supplier-Alpha-17,4.6
+PRD-0150,Decathlon Cricket Model-522,Sports,Cricket,Decathlon,16372.57,₹24028.3,Supplier-Gamma-10,1.0
+PRD-0686,Spigen Chargers Model-844,Mobile Accessories,Chargers,Spigen,23881.43,41540.59,Supplier-Alpha-18,4.5
+PRD-0656,Hasbro Board Games Model-359,Toys,Board Games,Hasbro,2736.25,4630.38,Supplier-Alpha-11,6.0
+PRD-0153,ITC Staples Model-373,Grocery,Staples,ITC,19766.75,31986.1,Supplier-Gamma-8,3.2
+PRD-0710,Nestle Staples Model-407,Grocery,Staples,Nestle,16660.57,22898.73,,3.9
+PRD-0649,Urban Ladder Sofas Model-539,Furniture,Sofas,Urban Ladder,2209.72,2681.56,Supplier-Alpha-5,3.6
+PRD-0263,Samsung Washing Machines Model-430,Home Appliances,Washing Machines,Samsung,17727.25,40302.95,Supplier-Beta-20,2.2
+PRD-0071,Pepperfry Chairs Model-787,Furniture,Chairs,Pepperfry,20837.89,34785.79,Supplier-Alpha-7,4.4
+PRD-0073,Bosch Microwaves Model-223,Home Appliances,Microwaves,Bosch,4546.53,8352.46,,1.9
+PRD-0312,Whiskas Food Model-370,Pet Supplies,Food,Whiskas,34455.53,46650.26,Supplier-Beta-7,4.1
+PRD-0216,Nivia Fitness Model-655,Sports,Fitness,Nivia,19919.81,46205.89,Supplier-Alpha-20,3.7
+PRD-0191,Mattel Action Figures Model-586,Toys,Action Figures,Mattel,22451.25,30116.67,Supplier-Alpha-18,10.0
+PRD-0180,Nivia Football Model-515,Sports,Football,Nivia,15633.52,26886.31,Supplier-Delta-2,2.0
+PRD-0733,Hawkins Tools Model-706,Kitchen,Tools,Hawkins,23800.97,45330.36,Supplier-Beta-11,
+PRD-0362,Oxford Fiction Model-952,Books,Fiction,Oxford,6774.65,5190.66,Supplier-Delta-11,3.3
+PRD-0152,Yonex Fitness Model-921,Sports,Fitness,Yonex,26510.08,39244.18,Supplier-Alpha-9,1.7
+PRD-0121,Decathlon Football Model-618,Sports,Football,Decathlon,481.45,732.91,Supplier-Omega-2,2.5
+PRD-0632,Bosch Bike Accessories Model-505,Automotive,Bike Accessories,Bosch,17265.26,28642.77,Supplier-Delta-13,2.6
+PRD-0027,Levi Women Model-723,Clothing,Women,Levi,30994.73,41932.11,Supplier-Gamma-12,1.8
+PRD-0326,Dell Laptops Model-161,Computers,Laptops,Dell,21943.37,31706.24,,2.0
+PRD-0493,Oxford Academic Model-401,Books,Academic,Oxford,15768.7,36808.44,Supplier-Delta-6,4.2
+PRD-0468,Lenovo Laptops Model-349,Computers,Laptops,Lenovo,33564.96,48947.63,Supplier-Delta-1,2.9
+PRD-0333,Canon Televisions Model-140,Electronics,Televisions,Canon,30071.07,44988.39,Supplier-Gamma-18,4.8
+PRD-0268,Bosch Refrigerators Model-971,Home Appliances,Refrigerators,Bosch,21474.14,34863.23,Supplier-Omega-12,3.5
+PRD-0677,Funskool Educational Model-476,Toys,Educational,Funskool,28048.06,44215.74,Supplier-Gamma-9,2.8
+PRD-0552,Woodland Formal Model-539,Footwear,Formal,Woodland,32170.47,47933.43,Supplier-Delta-16,3.8
+PRD-0036,Hasbro Educational Model-317,Toys,Educational,Hasbro,57876.0,43163.77,Supplier-Gamma-20,4.7
+PRD-0296,Nike Formal Model-993,Footwear,Formal,Nike,17944.09,22740.69,Supplier-Beta-3,1.1
+PRD-0615,Lego Board Games Model-520,Toys,Board Games,Lego,8029.27,9670.32,Supplier-Beta-16,1.1
+PRD-0270,Vega Car Accessories Model-916,Automotive,Car Accessories,Vega,18284.93,44835.68,Supplier-Gamma-17,4.0
+PRD-0367,HP Desktops Model-713,Computers,Desktops,HP,11937.38,25139.3,Supplier-Alpha-5,2.7
+PRD-0033,Decathlon Cricket Model-941,Sports,Cricket,Decathlon,31982.46,25690.64,Supplier-Gamma-3,3.5
+PRD-0698,Apple Desktops Model-421,Computers,,Apple,16942.52,26275.32,Supplier-Gamma-1,4.3
+PRD-0106,Pedigree Toys Model-151,Pet Supplies,Toys,Pedigree,36954.64,43839.24,Supplier-Alpha-20,4.6
+PRD-0117,Belkin Chargers Model-234,Mobile Accessories,Chargers,Belkin,20671.26,28475.62,Supplier-Beta-10,3.3
+PRD-0463,Royal Canin Toys Model-162,Pet Supplies,Toys,Royal Canin,22637.14,37674.65,Supplier-Beta-6,4.1
+PRD-0384,HP Monitors Model-607,Computers,Monitors,HP,24297.53,45597.03,Supplier-Gamma-9,2.8
+PRD-0225,Lego Board Games Model-498,Toys,Board Games,Lego,22823.8,42229.81,Supplier-Omega-11,4.7
+PRD-0202,Woodland Formal Model-934,Footwear,Formal,Woodland,13999.15,16538.47,Supplier-Omega-13,2.5
+PRD-0168,Loreal Haircare Model-494,Beauty,Haircare,Loreal,21342.51,34897.21,Supplier-Omega-15,1.2
+PRD-0439,Dell Desktops Model-579,Computers,Desktops,Dell,34753.05,43038.57,Supplier-Delta-12,4.8
+PRD-0321,Hasbro Action Figures Model-906,Toys,Action Figures,Hasbro,29844.28,37537.57,Supplier-Alpha-13,4.2
+PRD-0079,Prestige Cookware Model-980,Kitchen,Cookware,Prestige,24083.68,36868.18,Supplier-Beta-18,3.9
+PRD-0091,Nike Men Model-296,Clothing,Men,Nike,14625.77,18049.24,Supplier-Beta-16,1.5
+PRD-0334,Maybelline Makeup Model-718,Beauty,Makeup,Maybelline,20156.85,31223.87,Supplier-Omega-2,3.0
+PRD-0265,3M Bike Accessories Model-868,Automotive,Bike Accessories,3M,27932.23,42123.59,Supplier-Beta-18,2.4
+PRD-0661,Mi Cases Model-659,Mobile Accessories,Cases,Mi,11755.25,23392.17,Supplier-Delta-17,2.6
+PRD-0748,LG Televisions Model-982,Electronics,Televisions,LG,14159.41,34964.59,Supplier-Alpha-19,4.8
+PRD-0233,Britannia Beverages Model-435,Grocery,Beverages,Britannia,4628.84,9155.08,Supplier-Beta-14,3.1
+PRD-0432,Whiskas Toys Model-192,Pet Supplies,Toys,Whiskas,8357.72,13915.48,Supplier-Delta-11,1.1
+PRD-0509,Bosch Refrigerators Model-462,Home Appliances,Refrigerators,Bosch,24801.44,43060.35,Supplier-Alpha-8,2.6
+PRD-0572,Asus Monitors Model-559,Computers,Monitors,Asus,24106.06,47764.05,Supplier-Gamma-3,1.0
+PRD-0624,Mattel Action Figures Model-993,Toys,Action Figures,Mattel,16714.27,32525.86,Supplier-Beta-16,3.4
+PRD-0086,Mi Chargers Model-533,Mobile Accessories,Chargers,Mi,5150.79,8525.51,Supplier-Omega-16,2.9
+PRD-0223,Mattel Educational Model-599,Toys,Educational,Mattel,2966.85,6699.19,Supplier-Beta-17,4.6
+PRD-0219,Tata Staples Model-977,Grocery,Staples,,15480.37,26586.72,Supplier-Beta-2,3.4
+PRD-0130,Hawkins Tools Model-378,Kitchen,Tools,Hawkins,15084.78,18923.63,Supplier-Delta-18,1.6
+PRD-0269,Mattel Board Games Model-599,Toys,Board Games,Mattel,35337.12,49862.91,Supplier-Gamma-9,6.0
+PRD-0480,Pedigree Food Model-587,Pet Supplies,Food,Pedigree,23355.63,27858.24,Supplier-Alpha-12,3.0
+PRD-0705,Hawkins Storage Model-225,Kitchen,Storage,Hawkins,13221.63,31165.72,Supplier-Gamma-3,2.7
+PRD-0467,Canon Cameras Model-121,Electronics,Cameras,Canon,33349.5,40047.45,Supplier-Omega-14,2.2
+PRD-0264,Sony Televisions Model-385,Electronics,Televisions,Sony,1263.51,2829.89,Supplier-Beta-13,-1.0
+PRD-0097,Pedigree Grooming Model-195,Pet Supplies,Grooming,Pedigree,20305.66,30158.96,Supplier-Delta-12,4.3
+PRD-0429,3M Tools Model-743,Automotive,Tools,3M,1165.0,1742.26,Supplier-Beta-12,2.5
+PRD-0645,Asus Desktops Model-568,Computers,Desktops,,11045.48,19229.0,Supplier-Alpha-15,1.1
+PRD-0350,Lego Board Games Model-773,Toys,Board Games,Lego,12664.3,24796.41,Supplier-Delta-11,4.5
+PRD-0451,Britannia Beverages Model-219,Grocery,Beverages,Britannia,18051.12,41836.41,Supplier-Delta-4,4.2
+PRD-0629,LG Washing Machines Model-950,Home Appliances,Washing Machines,LG,15989.87,26536.74,Supplier-Alpha-13,3.0
+PRD-0295,Nike Women Model-753,Clothing,Women,Nike,14311.68,18493.06,Supplier-Delta-5,1.1
+PRD-0684,Tupperware Tools Model-270,Kitchen,Tools,Tupperware,23849.0,41899.4,Supplier-Delta-10,4.0
+PRD-0050,Dell Monitors Model-798,Computers,Monitors,Dell,8125.34,20289.84,Supplier-Beta-11,3.3
+PRD-0182,Whiskas Toys Model-540,Pet Supplies,Toys,Whiskas,17212.52,29259.07,Supplier-Omega-14,4.4
+PRD-0145,Dell Laptops Model-415,Computers,Laptops,Dell,27660.15,40828.47,Supplier-Beta-16,10.0
+PRD-0283,Hasbro Educational Model-460,Toys,Educational,Hasbro,22897.29,48401.3,Supplier-Delta-19,3.6
+PRD-0563,Hawkins Storage Model-178,Kitchen,Storage,Hawkins,9470.49,19862.64,Supplier-Omega-16,3.6
+PRD-0526,Asus Monitors Model-320,Computers,,Asus,5457.1,6657.2,Supplier-Delta-4,3.9
+PRD-0403,Urban Ladder Beds Model-467,Furniture,Beds,Urban Ladder,8833.42,11833.51,Supplier-Delta-11,3.9
+PRD-0291,Mi Cases Model-332,Mobile Accessories,Cases,Mi,21286.84,"25,329.89",Supplier-Beta-18,2.8
+PRD-0276,Bose Televisions Model-761,Electronics,Televisions,Bose,20038.91,36158.66,Supplier-Omega-8,2.9
+PRD-0020,Dell Laptops Model-146,Computers,Laptops,Dell,16876.84,36864.93,Supplier-Omega-12,3.6
+PRD-0410,Samsung Televisions Model-572,Electronics,Televisions,Samsung,23245.31,30414.32,Supplier-Alpha-19,1.8
+PRD-0313,Sony Cameras Model-260,ELECTRONICS,Cameras,Sony,21836.16,49546.93,Supplier-Omega-17,4.4
+PRD-0422,Dell Desktops Model-949,Computers,Desktops,Dell,22631.99,45926.81,Supplier-Omega-16,2.3
+PRD-0670,Funskool Educational Model-359,Toys,Educational,Funskool,15750.67,"19,611.93",Supplier-Beta-2,1.4
+PRD-0361,IKEA Sofas Model-572,Furniture,Sofas,IKEA,31312.33,37744.03,Supplier-Delta-5,3.9
+PRD-0659,Loreal Haircare Model-890,Beauty,,Loreal,29466.6,36626.98,Supplier-Gamma-19,1.8
+PRD-0074,Mattel Action Figures Model-165,Toys,Action Figures,Mattel,7898.49,10879.61,Supplier-Beta-14,1.1
+PRD-0683,Mi Chargers Model-556,Mobile Accessories,,Mi,8903.33,20108.93,Supplier-Delta-3,2.0
+PRD-0701,Bosch Refrigerators Model-630,Home Appliances,Refrigerators,Bosch,20658.05,24584.76,Supplier-Alpha-7,4.2
+PRD-0230,Cosco Cricket Model-758,Sports,Cricket,Cosco,13313.67,19888.33,Supplier-Delta-10,3.3
+PRD-0516,Hasbro Educational Model-217,Toys,Educational,Hasbro,17086.81,"23,579.72",Supplier-Alpha-19,2.0
+PRD-0067,Belkin Power Banks Model-662,Mobile Accessories,Power Banks,Belkin,1794.89,2217.87,Supplier-Beta-17,1.6
+PRD-0066,3M Car Accessories Model-231,Automotive,Car Accessories,3M,11787.77,16168.19,Supplier-Omega-16,2.2
+PRD-0055,Lenovo Monitors Model-612,Computers,Monitors,Lenovo,29197.8,37223.37,Supplier-Omega-17,3.7
+PRD-0446,Vega Bike Accessories Model-210,Automotive,Bike Accessories,Vega,22183.59,39999.11,Supplier-Alpha-5,4.9
+PRD-0345,Himalaya Toys Model-395,Pet Supplies,Toys,Himalaya,13529.51,16674.15,Supplier-Gamma-2,2.5
+PRD-0365,Britannia Beverages Model-349,Grocery,Beverages,Britannia,14083.92,22877.16,,4.4
+PRD-0360,Pepperfry Beds Model-195,Furniture,Beds,Pepperfry,10682.81,24724.38,Supplier-Gamma-5,2.7
+PRD-0028,Anker Power Banks Model-646,Mobile Accessories,Power Banks,Anker,16105.83,21333.27,,5.0
+PRD-0702,Cosco Fitness Model-368,Sports,Fitness,Cosco,36699.48,49816.97,Supplier-Omega-8,
+PRD-0046,Studds Tools Model-710,Automotive,Tools,Studds,9600.82,12473.77,Supplier-Beta-11,1.1
+PRD-0210,Adidas Sneakers Model-340,Footwear,Sneakers,Adidas,104.61,179.62,Supplier-Gamma-5,3.6
+PRD-0023,Spigen Cases Model-489,Mobile Accessories,Cases,Spigen,28794.51,48434.16,Supplier-Omega-16,
+PRD-0430,Sony Televisions Model-416,Electronics,Televisions,Sony,10990.09,₹15608.08,Supplier-Beta-20,2.7
+PRD-0346,Studds Tools Model-933,Automotive,Tools,Studds,46644.11,36540.93,Supplier-Alpha-14,3.3
+PRD-0316,HarperCollins Non-Fiction Model-805,Books,Non-Fiction,HarperCollins,32091.53,46326.15,Supplier-Alpha-12,
+PRD-0289,Apple Laptops Model-383,Computers,Laptops,Apple,19772.0,38400.59,Supplier-Beta-5,3.1
+PRD-0284,H&M Kids Model-377,Clothing,Kids,H&M,17238.97,35562.08,Supplier-Beta-16,1.4
+PRD-0010,Decathlon Cricket Model-814,Sports,Cricket,Decathlon,22319.67,30141.92,Supplier-Beta-6,1.1
+PRD-0206,Penguin Non-Fiction Model-960,Books,Non-Fiction,Penguin,20973.74,34404.85,Supplier-Delta-18,2.3
+PRD-0447,Pepperfry Sofas Model-125,Furniture,Sofas,Pepperfry,11861.38,17501.88,Supplier-Gamma-10,2.8
+PRD-0568,HP Laptops Model-362,Computers,Laptops,HP,19213.93,27015.15,Supplier-Delta-15,3.7
+PRD-0545,Sony Audio Model-107,Electronics,Audio,Sony,16511.56,24738.98,Supplier-Delta-16,3.1
+PRD-0356,Belkin Chargers Model-815,Mobile Accessories,Chargers,Belkin,24709.38,38939.67,,4.8
+PRD-0483,Anker Power Banks Model-729,Mobile Accessories,Power Banks,Anker,36873.57,49437.0,Supplier-Gamma-20,3.2
+PRD-0750,Funskool Board Games Model-233,Toys,Board Games,Funskool,32686.87,44087.77,Supplier-Alpha-1,-1.0
+PRD-0496,Prestige Tools Model-973,Kitchen,Tools,Prestige,24270.12,43828.38,Supplier-Beta-16,10.0
+PRD-0736,Dell Monitors Model-945,Computers,Monitors,Dell,18936.72,27211.76,Supplier-Delta-17,4.9
+PRD-0035,Prestige Storage Model-316,Kitchen,Storage,,17833.0,29086.21,Supplier-Delta-18,1.0
+PRD-0194,Himalaya Grooming Model-606,Pet Supplies,Grooming,Himalaya,10913.18,17286.88,Supplier-Gamma-14,4.0
+PRD-0109,Bosch Tools Model-971,Automotive,Tools,Bosch,14542.32,20592.19,Supplier-Omega-8,2.4
+PRD-0144,Lakme Haircare Model-540,Beauty,Haircare,Lakme,10297.47,15423.47,Supplier-Alpha-6,2.5
+PRD-0401,LG Televisions Model-129,Electronics,Televisions,LG,25608.63,45538.78,Supplier-Gamma-11,1.2
+PRD-0306,Godrej Tables Model-894,Furniture,Tables,Godrej,16886.61,30324.79,Supplier-Omega-9,4.1
+PRD-0502,Nestle Beverages Model-256,Grocery,Beverages,Nestle,21699.42,41264.11,Supplier-Beta-7,4.4
+PRD-0226,Bosch Washing Machines Model-841,Home Appliance,Washing Machines,Bosch,21730.03,37493.33,Supplier-Omega-20,
+PRD-0078,Lego Educational Model-334,Toys,Educational,Lego,13886.45,19240.88,Supplier-Beta-17,1.8
+PRD-0267,Yonex Football Model-444,Sports,,Yonex,556.37,961.21,Supplier-Delta-15,4.8
+PRD-0703,Pepperfry Chairs Model-319,Furniture,Chairs,Pepperfry,29215.6,44876.94,Supplier-Delta-16,2.4
+PRD-0672,Sony Audio Model-986,Electronics,Audio,Sony,21824.25,47822.96,Supplier-Delta-5,4.1
+PRD-0725,Nike Sneakers Model-630,Footwear,Sneakers,Nike,17584.05,26653.5,Supplier-Gamma-14,3.5
+PRD-0735,Nestle Staples Model-962,Grocery,Staples,Nestle,26362.77,33122.49,Supplier-Beta-12,3.3
+PRD-0351,Yonex Football Model-523,Sports,Football,Yonex,22789.81,37085.97,Supplier-Alpha-9,4.9
+PRD-0250,Britannia Staples Model-506,Grocery,Staples,Britannia,12128.38,16905.47,Supplier-Alpha-15,4.2
+PRD-0713,ITC Snacks Model-342,Grocery,Snacks,ITC,10530.42,23860.01,Supplier-Omega-2,6.0
+PRD-0001,Nike Casual Model-125,Footwear,Casual,Nike,39905.42,47929.15,Supplier-Gamma-17,2.9
+PRD-0199,LG Microwaves Model-968,Home Appliances,Microwaves,LG,11929.02,17831.77,Supplier-Alpha-18,
+PRD-0597,Godrej Chairs Model-441,Furniture,Chairs,Godrej,21838.35,31965.52,Supplier-Gamma-7,2.3
+PRD-0098,Anker Cases Model-516,Mobile Accessories,Cases,Anker,6946.93,13584.33,Supplier-Beta-10,3.9
+PRD-0013,Penguin Non-Fiction Model-194,Books,Non-Fiction,Penguin,20715.47,47312.42,Supplier-Beta-16,3.9
+PRD-0132,Nestle Staples Model-308,Grocery,Staples,Nestle,7935.46,10292.01,Supplier-Beta-17,4.5
+PRD-0101,Spigen Chargers Model-499,Mobile Accessories,Chargers,Spigen,22215.42,47029.56,Supplier-Delta-9,1.4
+PRD-0224,Hasbro Action Figures Model-546,Toys,Action Figures,Hasbro,23836.78,34373.92,Supplier-Gamma-8,3.8
+PRD-0374,MAC Haircare Model-986,Beauty,Haircare,MAC,12460.13,28297.14,Supplier-Omega-3,
+PRD-0090,Vega Bike Accessories Model-919,Automotive,Bike Accessories,Vega,7098.48,13333.6,Supplier-Gamma-10,3.3
+PRD-0414,Nike Kids Model-175,CLOTHING,Kids,Nike,18472.45,39400.1,Supplier-Delta-7,2.7
+PRD-0507,Woodland Sneakers Model-161,Footwear,Sneakers,Woodland,25488.43,38703.03,Supplier-Delta-6,1.7
+PRD-0370,Maybelline Makeup Model-906,Beauty,Makeup,Maybelline,14365.72,20477.31,Supplier-Omega-18,2.6
+PRD-0288,Samsung Cameras Model-296,Electronics,Cameras,Samsung,29486.23,35376.14,Supplier-Beta-12,4.8
+PRD-0613,Hawkins Cookware Model-951,Kitchen,Cookware,Hawkins,4775.98,6070.1,Supplier-Beta-13,1.2
+PRD-0237,Bose Televisions Model-119,Electronics,Televisions,Bose,16126.24,26790.01,Supplier-Gamma-14,4.1
+PRD-0669,Pepperfry Chairs Model-934,Furniture,Chairs,Pepperfry,3394.7,5517.91,Supplier-Alpha-1,4.7
+PRD-0731,LG Cameras Model-729,electronics,Cameras,LG,32396.82,44151.17,Supplier-Beta-10,2.0
+PRD-0693,Nivia Football Model-470,Sports,Football,Nivia,33904.49,₹40048.45,,2.1
+PRD-0576,Nivia Fitness Model-915,Sports,Fitness,Nivia,13484.26,17251.97,Supplier-Delta-10,3.4
+PRD-0111,Mattel Action Figures Model-513,Toys,Action Figures,Mattel,20164.07,24044.49,Supplier-Alpha-14,1.3
+PRD-0486,Yonex Fitness Model-536,Sports,Fitness,Yonex,21266.62,48134.33,,2.9
+PRD-0275,Pepperfry Tables Model-668,Furniture,Tables,Pepperfry,15592.0,24562.9,Supplier-Delta-2,4.5
+PRD-0541,H&M Men Model-713,Clothing,Men,H&M,6742.9,13361.59,,
+PRD-0089,Spigen Power Banks Model-162,Mobile Accessories,Power Banks,Spigen,8729.7,11508.27,Supplier-Gamma-8,2.2
+PRD-0096,Prestige Tools Model-151,Kitchen,Tools,Prestige,13779.65,"20,589.78",Supplier-Omega-13,4.5
+PRD-0436,Milton Tools Model-950,Kitchen,Tools,Milton,37482.12,48778.29,Supplier-Omega-17,3.5
+PRD-0305,Lakme Skincare Model-221,Beauty,Skincare,Lakme,15625.55,23684.65,Supplier-Alpha-1,4.4
+PRD-0389,Hawkins Tools Model-519,Kitchen,Tools,Hawkins,13029.44,29668.5,Supplier-Delta-3,
+PRD-0730,Hasbro Action Figures Model-228,Toys,Action Figures,Hasbro,2389.83,3122.78,Supplier-Alpha-3,1.7
+PRD-0746,HarperCollins Non-Fiction Model-575,Books,Non-Fiction,HarperCollins,36182.48,46508.01,Supplier-Beta-7,3.3
+PRD-0608,Decathlon Cricket Model-258,Sports,Cricket,Decathlon,23226.1,29433.77,Supplier-Omega-20,
+PRD-0107,Himalaya Grooming Model-614,Pet Supplies,Grooming,Himalaya,12898.64,"27,601.81",Supplier-Omega-8,3.3
+PRD-0543,Mattel Board Games Model-885,Toys,Board Games,Mattel,9424.54,12574.0,Supplier-Beta-5,3.3
+PRD-0253,Canon Audio Model-924,Electronics,Audio,Canon,7980.29,12255.44,Supplier-Alpha-9,3.9
+PRD-0174,Urban Ladder Chairs Model-779,Furniture,Chairs,Urban Ladder,958.28,2340.77,Supplier-Omega-5,3.7
+PRD-0660,Hasbro Educational Model-236,Toys,Educational,Hasbro,163.32,217.15,Supplier-Alpha-16,3.4
+PRD-0029,Mattel Educational Model-267,Toys,Educational,Mattel,5340.27,11167.69,Supplier-Alpha-13,1.4
+PRD-0393,Mi Cases Model-972,Mobile Accessories,Cases,Mi,540.64,1199.98,Supplier-Beta-15,2.9
+PRD-0363,Bata Sneakers Model-833,Footwear,Sneakers,Bata,15330.67,26847.24,Unknown,2.7
+PRD-0637,Nike Men Model-139,Clothing,Men,Nike,10973.28,26032.4,Supplier-Alpha-17,4.1
+PRD-0147,Samsung Televisions Model-782,Electronics,Televisions,Samsung,2386.97,4465.99,Supplier-Alpha-9,1.4
+PRD-0258,Himalaya Toys Model-208,Pet Supplies,Toys,Himalaya,5698.01,11305.37,Supplier-Beta-16,4.7
+PRD-0129,Pedigree Food Model-860,Pet Supplies,Food,Pedigree,24249.86,37866.21,Supplier-Gamma-10,3.7
+PRD-0536,Samsung Audio Model-873,Electronics ,Audio,Samsung,19205.12,24898.37,Supplier-Beta-11,2.8
+PRD-0087,MAC Makeup Model-984,Beauty,Makeup,MAC,20667.07,32360.08,Supplier-Beta-8,1.9
+PRD-0047,Studds Car Accessories Model-490,Automotive,Car Accessories,Studds,9387.02,16546.11,,2.2
+PRD-0322,Oxford Academic Model-777,Books,Academic,Oxford,52341.93,39986.88,Supplier-Delta-13,1.7
+PRD-0148,HarperCollins Fiction Model-898,Books,Fiction,HarperCollins,32506.36,39601.3,Supplier-Delta-8,3.5
+PRD-0184,Bata Formal Model-791,Footwear,Formal,Bata,27158.14,34898.5,Supplier-Alpha-18,4.8
+PRD-0567,3M Tools Model-341,Automotive,Tools,3M,6495.32,13532.07,Supplier-Alpha-6,2.8
+PRD-0320,Whirlpool Washing Machines Model-803,Home Appliances,Washing Machines,Whirlpool,33357.18,41405.65,Supplier-Alpha-2,1.2
+PRD-0217,Tupperware Storage Model-163,Kitchen,Storage,Tupperware,7067.62,11844.02,Supplier-Alpha-15,3.2
+PRD-0266,Canon Audio Model-724,ELECTRONICS,Audio,Canon,1865.92,2629.19,Supplier-Gamma-10,4.8
+PRD-0030,Pepperfry Tables Model-376,Furniture,Tables,Pepperfry,14835.18,19862.75,,
+PRD-0279,HarperCollins Fiction Model-808,Books,Fiction,HarperCollins,12309.08,26775.08,Supplier-Omega-19,1.5
+PRD-0330,Adidas Casual Model-816,Footwear,Casual,Adidas,22328.42,34164.95,Supplier-Beta-19,-1.0
+PRD-0573,Hasbro Educational Model-984,Toys,Educational,Hasbro,3882.97,7775.87,Supplier-Gamma-9,1.7
+PRD-0282,Mi Power Banks Model-535,Mobile Accessories,Power Banks,,7512.33,10293.62,,2.6
+PRD-0065,Funskool Educational Model-935,Toys,Educational,Funskool,11520.89,27822.45,Supplier-Beta-2,2.6
+PRD-0009,Woodland Formal Model-384,Footwear,Formal,Woodland,5267.19,4630.62,Supplier-Omega-14,2.0
+PRD-0193,Asus Desktops Model-299,Computers,Desktops,Asus,26487.34,41098.44,Supplier-Delta-2,2.6
+PRD-0165,IKEA Chairs Model-211,Furniture,Chairs,IKEA,28030.5,45528.04,Supplier-Delta-18,1.5
+PRD-0331,Samsung Washing Machines Model-612,Home Appliances,Washing Machines,Samsung,12923.05,22624.83,,1.6
+PRD-0251,3M Tools Model-177,Automotive,Tools,3M,27031.39,44987.39,Supplier-Gamma-3,4.8
+PRD-0301,HarperCollins Fiction Model-603,Books,Fiction,HarperCollins,2975.35,4439.01,Supplier-Omega-16,2.6
+PRD-0633,Godrej Chairs Model-495,Furniture,Chairs,Godrej,32050.59,40208.65,Supplier-Alpha-18,3.1
+PRD-0159,Mi Chargers Model-985,Mobile Accessories,Chargers,Mi,13324.27,31850.38,Supplier-Gamma-20,3.6
+PRD-0734,Puma Casual Model-275,Footwear,Casual,Puma,13930.04,28587.38,Supplier-Beta-3,4.0
+PRD-0102,Yonex Fitness Model-392,Sports,,Yonex,14460.59,20861.12,Supplier-Delta-7,1.8
+PRD-0738,Vega Tools Model-766,Automotive,Tools,Vega,26946.34,36708.8,Supplier-Gamma-6,4.0
+PRD-0211,HarperCollins Non-Fiction Model-427,Books,Non-Fiction,HarperCollins,29128.75,43421.64,,
+PRD-0494,FabIndia Women Model-719,Clothing,Women,FabIndia,19211.08,42414.0,Supplier-Delta-18,3.7
+PRD-0538,Cosco Fitness Model-390,Sports,Fitness,Cosco,2443.88,5373.61,Supplier-Omega-9,1.4
+PRD-0397,ITC Snacks Model-746,Grocery,Snacks,ITC,2329.91,3492.63,Supplier-Omega-13,-1.0
+PRD-0455,Bose Televisions Model-564,Electronics,Televisions,Bose,18644.2,26406.0,Supplier-Alpha-1,2.4
+PRD-0405,MAC Skincare Model-679,Beauty,Skincare,MAC,4819.09,9356.73,Supplier-Gamma-10,1.8
+PRD-0546,MAC Makeup Model-279,Beauty,Makeup,MAC,23562.78,28686.05,Supplier-Beta-19,1.3
+PRD-0290,Vega Tools Model-202,Automotive,Tools,Vega,3077.11,4410.14,Supplier-Omega-16,1.9
+PRD-0535,H&M Kids Model-524,Clothing,Kids,H&M,16817.29,20292.14,Supplier-Omega-18,1.0
+PRD-0395,Apple Desktops Model-993,Computers,Desktops,Apple,26503.78,38573.77,Supplier-Gamma-1,2.2
+PRD-0402,Vega Car Accessories Model-915,Automotive,Car Accessories,Vega,4994.84,6184.4,Supplier-Omega-7,2.4
+PRD-0671,HP Laptops Model-392,Computers,Laptops,HP,3414.77,6265.66,Supplier-Delta-12,3.1
+PRD-0100,Lego Board Games Model-268,Toys,Board Games,Lego,1933.86,3856.21,Supplier-Alpha-12,2.6
+PRD-0329,Whirlpool Washing Machines Model-579,home appliances,Washing Machines,Whirlpool,19852.3,29435.92,Supplier-Alpha-8,10.0
+PRD-0634,Adidas Sneakers Model-329,Footwear,Sneakers,Adidas,12058.73,26943.15,Supplier-Omega-20,2.0
+PRD-0083,Studds Car Accessories Model-348,Automotive,Car Accessories,Studds,9713.52,19756.36,Supplier-Delta-18,3.2
+PRD-0561,Loreal Haircare Model-505,Beauty,Haircare,Loreal,16302.4,₹30539.71,Supplier-Gamma-18,1.4
+PRD-0448,FabIndia Kids Model-435,Clothing,Kids,FabIndia,14041.45,23438.18,Supplier-Gamma-15,1.6
+PRD-0156,Britannia Snacks Model-458,Grocery,Snacks,Britannia,20656.08,30882.32,Supplier-Beta-13,-1.0
+PRD-0212,Dell Monitors Model-241,Computers,Monitors,Dell,2924.54,4271.62,Supplier-Alpha-2,3.3
+PRD-0679,Tupperware Cookware Model-180,Kitchen,Cookware,Tupperware,21261.8,45191.01,Supplier-Gamma-4,1.0
+PRD-0694,Cosco Fitness Model-719,Sports,Fitness,Cosco,22123.08,31507.41,Supplier-Omega-8,1.9
+PRD-0469,Anker Cases Model-170,Mobile Accessories,Cases,Anker,31064.55,"41,997.45",Supplier-Beta-7,3.0
+PRD-0299,Penguin Fiction Model-358,Books,Fiction,Penguin,7675.64,10126.44,Supplier-Delta-12,2.4
+PRD-0198,Tupperware Cookware Model-151,Kitchen,Cookware,Tupperware,17993.26,26744.45,Supplier-Delta-13,1.5
+PRD-0443,Lego Board Games Model-370,Toys,Board Games,Lego,10376.31,15531.35,Supplier-Alpha-16,4.1
+PRD-0643,Decathlon Fitness Model-408,Sports,Fitness,Decathlon,25.73,61.86,Supplier-Alpha-8,4.7
+PRD-0195,Puma Formal Model-251,Footwear,Formal,Puma,11573.52,17413.58,Supplier-Beta-5,2.8
+PRD-0002,Samsung Microwaves Model-350,Home Appliance,Microwaves,Samsung,25819.71,42364.8,Supplier-Omega-4,5.0
+PRD-0376,HarperCollins Non-Fiction Model-440,Books,Non-Fiction,HarperCollins,17382.2,29971.52,Supplier-Gamma-13,2.0
+PRD-0041,Himalaya Toys Model-697,Pet Supplies,Toys,Himalaya,10537.99,17543.4,Supplier-Gamma-5,1.4
+PRD-0708,Maybelline Haircare Model-783,Beauty,Haircare,,23324.35,44751.33,Supplier-Gamma-15,2.8
+PRD-0220,Pepperfry Tables Model-106,Furniture,Tables,Pepperfry,24031.8,36039.78,Supplier-Delta-15,2.2
+PRD-0106,Pedigree Toys Model-151,Pet Supplies,Toys,Pedigree,36954.64,43839.24,Unknown,4.6
+PRD-0133,Adidas Casual Model-617,Footwear,Casual,Adidas,7074.09,12609.55,,1.7
+PRD-0420,FabIndia Women Model-467,Clothing,Women,FabIndia,12600.5,23311.72,Supplier-Delta-13,2.1
+PRD-0696,Studds Bike Accessories Model-881,Automotive,Bike Accessories,Studds,20637.4,25937.11,Supplier-Delta-1,4.6
+PRD-0479,Belkin Cases Model-638,Mobile Accessories,Cases,Belkin,20144.49,44378.65,Supplier-Delta-19,
+PRD-0560,Woodland Formal Model-510,Footwear,Formal,Woodland,24497.34,36090.57,Supplier-Gamma-10,
+PRD-0611,FabIndia Women Model-234,Clothing,Women,FabIndia,18115.91,23686.85,Supplier-Beta-17,3.6
+PRD-0657,Penguin Academic Model-465,Books,Academic,Penguin,7367.19,16851.7,Supplier-Delta-9,4.1
+PRD-0593,Levi Kids Model-908,Clothing,Kids,Levi,12662.61,26088.97,Supplier-Beta-3,1.9
+PRD-0120,Loreal Makeup Model-175,Beauty,Makeup,Loreal,3005.94,6735.91,Supplier-Omega-8,2.7
+PRD-0461,Bose Audio Model-341,Electronics,Audio,Bose,9436.49,16751.42,Supplier-Delta-15,1.6
+PRD-0732,Nike Casual Model-614,Footwear,Casual,Nike,20576.07,25828.15,Supplier-Omega-2,2.1
+PRD-0319,Lenovo Monitors Model-819,Computers,Monitors,Lenovo,23341.67,39086.65,,
+PRD-0412,Oxford Non-Fiction Model-109,Books,Non-Fiction,Oxford,17397.85,"37,225.27",Supplier-Omega-6,3.9
+PRD-0542,Penguin Fiction Model-309,Books,Fiction,Penguin,15966.89,36622.62,Supplier-Beta-5,
+PRD-0105,Bosch Car Accessories Model-865,Automotive,Car Accessories,Bosch,2488.89,4183.28,Supplier-Gamma-5,3.4
+PRD-0093,Yonex Cricket Model-287,Sports,Cricket,Yonex,10969.33,22689.38,,3.9
+PRD-0027,Levi Women Model-723,Clothing,Women,Levi,30994.73,41932.11,Supplier-Gamma-12,1.8
+PRD-0596,Tupperware Tools Model-390,Kitchen,Tools,Tupperware,29413.63,37931.7,,4.0
+PRD-0063,LG Washing Machines Model-159,Home Appliances,Washing Machines,LG,31716.18,40115.36,Supplier-Delta-9,1.8
+PRD-0387,Apple Laptops Model-202,Computers,,Apple,10437.13,12837.98,Supplier-Delta-9,-1.0
+PRD-0456,Studds Bike Accessories Model-701,Automotive,Bike Accessories,Studds,13476.63,26746.07,Supplier-Gamma-4,1.1
+PRD-0298,Bata Formal Model-448,Footwear,Formal,Bata,12385.6,27468.65,Supplier-Beta-17,3.9
+PRD-0605,Nike Formal Model-471,Footwear,Formal,Nike,1365.38,2627.21,Supplier-Beta-8,5.0
+PRD-0271,Adidas Formal Model-386,Footwear,Formal,Adidas,15719.29,28821.12,Supplier-Delta-15,3.2
+PRD-0460,Hasbro Educational Model-322,Toys,Educational,Hasbro,2962.17,5193.92,Supplier-Gamma-18,3.7
+PRD-0049,Bosch Bike Accessories Model-796,Automotive,Bike Accessories,Bosch,6534.09,12721.42,Supplier-Omega-17,
+PRD-0506,Nivia Football Model-931,Sports,Football,Nivia,13035.39,"17,292.35",Supplier-Delta-15,1.7
+PRD-0363,Bata Sneakers Model-833,Footwear,Sneakers,Bata,15330.67,26847.24,Supplier-Gamma-4,2.7
+PRD-0349,Nike Formal Model-891,Footwear,Formal,Nike,27987.35,43937.52,,4.6
+PRD-0411,Hasbro Educational Model-570,Toys,Educational,Hasbro,14152.17,"18,996.32",Supplier-Beta-19,2.2
+PRD-0240,Bosch Tools Model-872,Automotive,Tools,Bosch,14288.15,23724.8,Supplier-Beta-18,3.5
+PRD-0518,Woodland Formal Model-885,Footwear,Formal,Woodland,12020.53,24264.68,Supplier-Omega-12,1.3
+PRD-0396,Prestige Tools Model-732,Kitchen,Tools,Prestige,11848.72,18753.05,Supplier-Delta-11,4.7
+PRD-0407,Nike Sneakers Model-724,Footwear,Sneakers,Nike,12137.42,₹16640.71,Supplier-Beta-11,2.7
+PRD-0441,Bose Televisions Model-966,Electronics,Televisions,Bose,4809.85,9263.92,Supplier-Omega-17,1.5
+PRD-0052,Adidas Casual Model-214,Footwear,Casual,Adidas,22638.83,37061.64,Supplier-Beta-13,1.0
+PRD-0038,Bose Cameras Model-246,Electronics,Cameras,Bose,9303.08,11872.43,Supplier-Beta-4,4.2
+PRD-0292,Godrej Chairs Model-409,Furniture,Chairs,Godrej,26491.35,46604.12,Supplier-Alpha-17,
+PRD-0007,Prestige Tools Model-674,Kitchen,Tools,Prestige,19961.31,24676.63,Supplier-Alpha-2,6.0
+PRD-0227,Studds Car Accessories Model-230,Automotive,Car Accessories,Studds,1235.8,"1,572.08",Supplier-Gamma-8,
+PRD-0668,Penguin Fiction Model-423,Books,Fiction,Penguin,1915.73,2302.78,Supplier-Omega-1,
+PRD-0598,Canon Televisions Model-779,Electronic,Televisions,Canon,18582.74,37963.84,Supplier-Beta-14,4.6
+PRD-0286,Godrej Beds Model-423,Furniture,Beds,Godrej,17318.09,36825.55,Supplier-Gamma-16,3.0
+PRD-0197,Bosch Refrigerators Model-324,Home Appliances,Refrigerators,Bosch,15870.42,27458.33,Supplier-Delta-15,1.9
+PRD-0555,Tupperware Cookware Model-121,Kitchen,Cookware,Tupperware,25218.67,38560.75,Supplier-Delta-12,1.7
+PRD-0476,Maybelline Skincare Model-908,Beauty,Skincare,Maybelline,25055.41,₹29772.7,Supplier-Delta-17,
+PRD-0528,Decathlon Fitness Model-478,Sports,Fitness,Decathlon,21289.1,34576.53,Supplier-Omega-12,4.1
+PRD-0076,Mattel Educational Model-702,Toys,Educational,,24406.02,49791.78,,2.7
+PRD-0034,Zara Men Model-510,Clothing,Men,Zara,8410.44,11699.74,Supplier-Delta-17,1.3
+PRD-0084,Bose Audio Model-294,Electronics,Audio,Bose,2373.8,5382.47,Supplier-Gamma-18,3.5
+PRD-0053,Bosch Washing Machines Model-261,home appliances,Washing Machines,Bosch,31653.96,38371.38,Supplier-Omega-10,1.4
+PRD-0324,HP Monitors Model-763,Computers,Monitors,HP,5326.86,"9,360.93",Supplier-Alpha-1,4.2
+PRD-0651,Bosch Microwaves Model-291,Home Appliances,Microwaves,Bosch,1079.04,1927.96,Supplier-Delta-12,3.0
+PRD-0317,H&M Kids Model-398,Clothing,Kids,H&M,26865.87,36093.75,Supplier-Delta-15,
+PRD-0630,Sony Audio Model-327,Electronics,Audio,Sony,11086.9,22079.56,Supplier-Omega-10,2.1
+PRD-0431,Lego Board Games Model-693,Toys,Board Games,Lego,23391.11,39035.76,Supplier-Alpha-19,4.0
+PRD-0042,Nivia Fitness Model-324,Sports,Fitness,Nivia,24492.2,35423.65,Supplier-Beta-20,2.6
+PRD-0185,Oxford Fiction Model-584,Books,Fiction,Oxford,4326.7,9044.36,Supplier-Delta-10,1.1
+PRD-0293,Mattel Action Figures Model-380,Toys,Action Figures,Mattel,22856.18,16066.08,Supplier-Alpha-3,1.7
+PRD-0425,HarperCollins Academic Model-952,Books,,HarperCollins,31237.59,45641.84,Supplier-Delta-18,1.9
+PRD-0043,Funskool Action Figures Model-193,Toys,Action Figures,Funskool,16092.41,24109.27,Supplier-Omega-13,3.9
+PRD-0433,LG Audio Model-865,Electronics,Audio,LG,8018.2,"11,043.86",Supplier-Delta-4,2.1
+PRD-0551,Pepperfry Beds Model-179,Furniture,Beds,Pepperfry,7231.44,₹17725.88,Supplier-Gamma-12,3.2
+PRD-0508,Nestle Staples Model-786,Grocery,Staples,Nestle,11900.45,18169.76,Supplier-Alpha-19,1.1
+PRD-0143,LG Televisions Model-696,Electronics,Televisions,LG,33398.79,41577.01,Supplier-Alpha-13,3.0
+PRD-0025,Mattel Board Games Model-479,Toys,Board Games,Mattel,24128.85,41856.35,Supplier-Alpha-4,4.2
+PRD-0149,Godrej Tables Model-342,Furniture,Tables,Godrej,24391.2,29518.3,,6.0
+PRD-0739,Canon Televisions Model-526,Electronics,Televisions,Canon,20003.56,26086.95,Supplier-Alpha-13,4.5
+PRD-0021,Nike Kids Model-891,Clothing,Kids,Nike,14410.62,₹27318.49,Supplier-Alpha-2,
+PRD-0004,Pedigree Food Model-704,Pet Supplies,Food,Pedigree,19247.65,47842.2,Supplier-Delta-4,
+PRD-0602,Urban Ladder Tables Model-932,Furniture,Tables,Urban Ladder,23473.39,45173.02,Supplier-Alpha-19,4.3
+PRD-0588,Decathlon Football Model-140,Sports,Football,Decathlon,7254.82,15764.1,Supplier-Delta-3,4.8
+PRD-0658,Samsung Refrigerators Model-346,Home Appliances,Refrigerators,Samsung,16516.13,26149.83,Supplier-Omega-3,3.4
+PRD-0634,Adidas Sneakers Model-329,Footwear,Sneakers,Adidas,12058.73,26943.15,Unknown,2.0
+PRD-0119,IKEA Chairs Model-109,Furniture,Chairs,IKEA,879.76,1889.25,Supplier-Alpha-3,4.8
+PRD-0062,Mi Cases Model-999,Mobile Accessories,Cases,Mi,10029.04,21844.97,Supplier-Alpha-20,3.7
+PRD-0332,Britannia Staples Model-548,Grocery,Staples,Britannia,23093.87,35703.43,Supplier-Alpha-3,5.0
+PRD-0622,Bosch Washing Machines Model-614,Home Appliances,Washing Machines,Bosch,13745.15,26145.61,Supplier-Omega-14,1.9
+PRD-0612,Britannia Staples Model-257,Grocery,Staples,Britannia,10603.0,15677.1,Supplier-Omega-17,4.3
+PRD-0522,Mi Chargers Model-459,Mobile Accessories,Chargers,Mi,9457.96,20157.37,Supplier-Alpha-8,1.8
+PRD-0531,Hawkins Cookware Model-872,Kitchen,Cookware,Hawkins,12262.99,26506.6,Supplier-Beta-7,5.0
+PRD-0644,Cosco Cricket Model-344,Sports,Cricket,Cosco,5857.44,9314.37,Supplier-Alpha-14,4.4
+PRD-0338,Samsung Televisions Model-581,Electronics,Televisions,Samsung,8469.41,17800.35,Supplier-Delta-3,1.4
+PRD-0499,Yonex Fitness Model-508,Sports,Fitness,Yonex,23112.76,45535.67,Supplier-Delta-20,1.3
+PRD-0691,MAC Skincare Model-135,Beauty,,MAC,29830.9,47865.65,Supplier-Beta-15,3.5
+PRD-0606,HP Desktops Model-319,Computers,Desktops,HP,15655.54,33512.38,Supplier-Gamma-3,
+PRD-0048,Himalaya Grooming Model-641,Pet Supplies,Grooming,Himalaya,16714.53,21750.87,Supplier-Delta-5,3.2
+PRD-0236,LG Audio Model-954,Electronics,Audio,LG,2473.21,4505.76,Supplier-Delta-17,3.2
+PRD-0210,Adidas Sneakers Model-340,Footwear,Sneakers,Adidas,104.61,179.62,Unknown,3.6
+PRD-0039,Penguin Non-Fiction Model-352,Books,Non-Fiction,Penguin,38379.68,45389.3,Supplier-Delta-12,4.5
+PRD-0609,Lenovo Laptops Model-964,Computers,Laptops,Lenovo,25461.8,49967.71,Supplier-Omega-10,3.8
+PRD-0519,Pedigree Grooming Model-723,Pet Supplies,,Pedigree,19708.14,25647.26,Supplier-Omega-2,2.3
+PRD-0747,Lenovo Laptops Model-721,Computers,Laptops,Lenovo,4134.15,5336.41,Supplier-Delta-12,1.1
+PRD-0139,MAC Haircare Model-664,Beauty,Haircare,MAC,5637.71,"13,470.19",Supplier-Omega-7,2.9
+PRD-0747,Lenovo Laptops Model-721,Computers,Laptops,Lenovo,4134.15,5336.41,Unknown,1.1
+PRD-0678,Milton Tools Model-920,Kitchen,Tools,Milton,20363.31,30059.88,Supplier-Alpha-19,4.2
+PRD-0692,Prestige Cookware Model-341,Kitchen,Cookware,Prestige,16764.0,41318.97,Supplier-Gamma-19,
+PRD-0337,Maybelline Haircare Model-690,Beauty,Haircare,Maybelline,19191.71,28895.44,Supplier-Omega-5,3.5
+PRD-0125,Hasbro Educational Model-726,Toys,Educational,Hasbro,20843.5,37508.04,Supplier-Beta-10,1.2
+PRD-0408,Asus Desktops Model-799,Computers,Desktops,Asus,12220.44,15606.64,Supplier-Delta-9,4.5
+PRD-0406,Lakme Haircare Model-274,Beauty,Haircare,Lakme,22446.06,41882.66,Supplier-Delta-19,1.0
+PRD-0060,Tata Snacks Model-713,Grocery,Snacks,Tata,3133.47,4190.42,Supplier-Alpha-14,1.6
+PRD-0688,Nike Formal Model-176,Footwear,Formal,Nike,1253.04,2394.92,Supplier-Gamma-7,1.9
+PRD-0273,Asus Laptops Model-295,Computers,Laptops,Asus,208.06,314.74,Supplier-Gamma-7,2.8
+PRD-0413,Lenovo Desktops Model-793,Computers,Desktops,Lenovo,6096.04,10318.71,Supplier-Omega-1,3.6
+PRD-0262,Britannia Staples Model-576,Grocery,Staples,Britannia,2135.66,4439.99,Supplier-Alpha-16,2.7
+PRD-0187,Royal Canin Food Model-627,Pet Supplies,Food,Royal Canin,28895.57,20612.48,Supplier-Gamma-1,2.3
+PRD-0123,Mattel Action Figures Model-478,Toys,Action Figures,Mattel,21350.99,"34,601.13",Supplier-Beta-2,3.7
+PRD-0614,3M Tools Model-838,Automotive,Tools,3M,21082.33,"36,564.63",Supplier-Gamma-2,4.6
+PRD-0246,Puma Formal Model-720,Footwear,Formal,Puma,18768.74,27909.23,Supplier-Omega-17,3.1
+PRD-0449,HP Monitors Model-763,Computers,Monitors,HP,24211.66,31267.55,Supplier-Beta-17,1.7
+PRD-0687,Asus Desktops Model-545,Computers,Desktops,Asus,2870.8,6060.92,Supplier-Delta-1,4.3
+PRD-0641,Samsung Refrigerators Model-320,Home Appliances,Refrigerators,Samsung,17596.45,23124.05,Supplier-Alpha-10,2.3
+PRD-0095,H&M Men Model-927,Clothing,Men,H&M,5617.45,14024.19,Supplier-Alpha-19,1.6
+PRD-0335,Nike Formal Model-193,Footwear,Formal,Nike,16206.93,27012.06,Supplier-Beta-11,3.1
+PRD-0307,Bosch Microwaves Model-561,Home Appliances,Microwaves,Bosch,18737.35,39724.76,Supplier-Omega-10,
+PRD-0599,Milton Cookware Model-417,Kitchen,Cookware,Milton,15540.74,36218.96,Supplier-Omega-15,1.3
+PRD-0259,HarperCollins Non-Fiction Model-750,Books,Non-Fiction,HarperCollins,7745.54,18299.57,Supplier-Beta-11,3.0
+PRD-0517,Asus Desktops Model-331,Computers,Desktops,Asus,4239.97,9146.25,Supplier-Alpha-9,2.4
+PRD-0213,Nike Men Model-492,Clothing,Men,Nike,16967.62,₹29884.04,Unknown,3.7
+PRD-0603,FabIndia Men Model-195,Clothing,Men,FabIndia,22346.09,32350.91,Supplier-Delta-12,3.1
+PRD-0161,Woodland Casual Model-509,Footwear,Casual,Woodland,2745.26,4595.55,Supplier-Beta-16,4.0
+PRD-0277,MAC Haircare Model-558,Beauty,Haircare,,26253.19,41052.03,Supplier-Beta-1,4.6
+PRD-0344,Puma Sneakers Model-437,Footwear,Sneakers,Puma,16878.24,"21,604.83",Supplier-Alpha-17,5.0
+PRD-0068,Nivia Cricket Model-640,Sports,Cricket,Nivia,36332.75,46235.93,Supplier-Omega-13,2.1
+PRD-0162,Woodland Casual Model-439,Footwear,Casual,Woodland,26384.39,36333.53,Supplier-Beta-15,1.1
+PRD-0244,ITC Snacks Model-576,Grocery,Snacks,ITC,16417.83,29230.76,Supplier-Alpha-18,2.1
+PRD-0580,Vega Car Accessories Model-951,Automotive,Car Accessories,Vega,20784.47,29934.39,Supplier-Delta-3,4.1
+PRD-0539,FabIndia Kids Model-598,CLOTHING,Kids,FabIndia,4333.46,7043.93,Supplier-Omega-4,3.2
+PRD-0717,Britannia Beverages Model-834,Grocery,Beverages,Britannia,9134.51,16486.12,,4.2
+PRD-0548,Mattel Educational Model-612,Toys,Educational,Mattel,10630.42,20248.86,Supplier-Delta-15,3.1
+PRD-0544,Urban Ladder Sofas Model-396,Furniture,Sofas,Urban Ladder,14408.66,31673.25,Supplier-Gamma-8,1.8
+PRD-0424,Loreal Skincare Model-720,Beauty,Skincare,Loreal,871.72,1690.69,Supplier-Omega-17,
+PRD-0465,Pepperfry Beds Model-193,Furniture,Beds,Pepperfry,29673.06,44876.65,Supplier-Alpha-20,2.7
+PRD-0488,Yonex Football Model-175,Sports,Football,Yonex,5355.11,"7,097.04",Supplier-Beta-12,4.8
+PRD-0061,Bata Formal Model-119,Footwear,Formal,Bata,13314.23,26442.09,Supplier-Omega-10,3.8
+PRD-0372,Maybelline Skincare Model-843,Beauty,Skincare,Maybelline,421.79,659.54,Supplier-Alpha-1,4.3
+PRD-0164,Lakme Makeup Model-694,Beauty,Makeup,Lakme,15634.78,22572.98,Supplier-Delta-18,4.7
+PRD-0378,Maybelline Makeup Model-990,Beauty,Makeup,Maybelline,36946.5,47955.79,,3.4
+PRD-0462,Whirlpool Washing Machines Model-802,Home Appliances,Washing Machines,Whirlpool,3240.41,3821.39,Supplier-Beta-13,1.5
+PRD-0489,LG Televisions Model-722,electronics,Televisions,LG,16057.81,20349.3,Supplier-Beta-17,3.9
+PRD-0485,Penguin Academic Model-162,Books,Academic,Penguin,28335.34,40352.16,Supplier-Beta-11,2.2
+PRD-0327,Royal Canin Food Model-709,Pet Supplies,Food,Royal Canin,24867.68,45397.91,Supplier-Gamma-19,2.6
+PRD-0628,Puma Sneakers Model-379,Footwear,Sneakers,Puma,25396.43,44255.67,Supplier-Beta-2,2.5
+PRD-0740,Sony Cameras Model-609,Electronics,Cameras,Sony,29380.43,43414.63,Supplier-Delta-18,3.7
+PRD-0015,Maybelline Makeup Model-926,Beauty,Makeup,Maybelline,3727.45,5717.56,Supplier-Delta-10,4.7
+PRD-0742,Bosch Washing Machines Model-350,home appliances,Washing Machines,Bosch,4499.27,7909.17,Supplier-Alpha-15,4.0
+PRD-0714,Whirlpool Washing Machines Model-469,Home Appliances,Washing Machines,Whirlpool,1891.05,2266.61,Supplier-Delta-5,4.0
+PRD-0625,Cosco Fitness Model-756,Sports,Fitness,Cosco,13727.86,18266.63,Supplier-Alpha-1,2.5
+PRD-0470,ITC Staples Model-700,Grocery,Staples,ITC,20668.62,43356.34,Supplier-Gamma-3,2.5
+PRD-0303,Pedigree Grooming Model-255,Pet Supplies,Grooming,,143.15,185.41,Supplier-Alpha-18,-1.0
+PRD-0353,Bosch Washing Machines Model-740,Home Appliances,,Bosch,32287.23,49884.75,Supplier-Beta-12,4.4
+PRD-0278,Sony Televisions Model-401,Electronics,Televisions,Sony,16408.22,35936.94,,3.7
+PRD-0232,Mattel Board Games Model-151,Toys,Board Games,Mattel,18687.43,36883.39,Supplier-Omega-19,2.0
+PRD-0404,Bosch Washing Machines Model-249,Home Appliances,Washing Machines,Bosch,5410.59,8317.75,,1.8
+PRD-0012,Puma Sneakers Model-881,Footwear,Sneakers,Puma,5198.13,"10,675.76",Supplier-Gamma-7,1.9
+PRD-0018,Maybelline Haircare Model-949,Beauty,Haircare,Maybelline,20122.01,49796.77,Supplier-Omega-15,3.1
+PRD-0617,Royal Canin Grooming Model-870,Pet Supplies,Grooming,Royal Canin,9417.51,21117.04,Supplier-Beta-16,
+PRD-0726,Maybelline Skincare Model-268,Beauty,Skincare,Maybelline,38232.01,48107.99,Supplier-Alpha-18,3.3
+PRD-0390,Anker Power Banks Model-176,Mobile Accessories,Power Banks,,3954.73,5155.52,Supplier-Gamma-9,2.4
+PRD-0115,Urban Ladder Chairs Model-309,Furniture,Chairs,Urban Ladder,16308.51,19679.82,Supplier-Beta-14,3.3
+PRD-0175,Royal Canin Food Model-619,Pet Supplies,Food,Royal Canin,21554.13,31059.24,Supplier-Beta-11,4.3
+PRD-0155,Bata Sneakers Model-327,Footwear,Sneakers,Bata,29303.65,45162.4,Supplier-Delta-10,3.9
+PRD-0558,Royal Canin Grooming Model-190,Pet Supplies,Grooming,Royal Canin,13528.21,₹21887.81,Supplier-Delta-7,2.7
+PRD-0231,Puma Formal Model-987,Footwear,Formal,Puma,3059.21,5288.21,Supplier-Gamma-2,5.0
+PRD-0309,H&M Kids Model-412,Clothing,Kids,H&M,23107.7,42543.84,Supplier-Delta-6,2.8
+PRD-0478,Maybelline Skincare Model-153,Beauty,Skincare,Maybelline,16302.3,28493.7,Supplier-Delta-20,1.4
+PRD-0245,Lenovo Monitors Model-885,Computers,Monitors,Lenovo,21033.16,36854.28,Supplier-Delta-14,4.9
+PRD-0503,MAC Haircare Model-168,Beauty,Haircare,MAC,14985.63,18184.81,Supplier-Delta-18,4.9
+PRD-0497,Decathlon Football Model-540,Sports,Football,Decathlon,18378.88,32164.13,Supplier-Gamma-5,4.3
+PRD-0215,Spigen Cases Model-524,Mobile Accessories,Cases,Spigen,15732.03,26852.7,Supplier-Beta-3,4.5
+PRD-0477,Vega Car Accessories Model-116,Automotive,Car Accessories,Vega,10430.8,16996.6,Supplier-Gamma-20,4.4
+PRD-0648,Lakme Skincare Model-835,Beauty,Skincare,Lakme,438.34,523.80,Supplier-Beta-4,4.5
+PRD-0088,Whirlpool Microwaves Model-789,Home Appliances,Microwaves,Whirlpool,7933.89,19444.01,Supplier-Gamma-18,2.2
+PRD-0419,Levi Women Model-342,Clothing,Women,Levi,22166.77,46151.86,Supplier-Gamma-5,2.0
+PRD-0527,Britannia Beverages Model-564,Grocery,Beverages,Britannia,29669.19,45033.59,Supplier-Beta-7,
+PRD-0056,IKEA Sofas Model-991,Furniture,Sofas,IKEA,21706.74,34067.92,Supplier-Omega-16,1.5
+PRD-0440,Samsung Televisions Model-872,Electronics,Televisions,Samsung,20020.43,26776.73,Supplier-Delta-15,3.5
+PRD-0457,Pepperfry Sofas Model-770,Furniture,Sofas,Pepperfry,14582.73,24080.34,Supplier-Beta-8,1.2
+PRD-0141,Penguin Fiction Model-177,Books,Fiction,Penguin,20649.74,24933.35,Supplier-Delta-14,5.0
+PRD-0636,Nivia Football Model-910,Sports,Football,Nivia,22124.09,36905.9,Supplier-Alpha-10,2.2
+PRD-0383,Studds Bike Accessories Model-779,Automotive,Bike Accessories,Studds,14862.3,30766.77,Supplier-Beta-9,4.5
+PRD-0177,Lenovo Desktops Model-667,Computers,Desktops,Lenovo,6760.69,10496.08,Supplier-Alpha-7,3.2
+PRD-0386,Nestle Staples Model-990,Grocery,Staples,Nestle,2457.7,5084.69,Unknown,4.3
+PRD-0082,HP Desktops Model-652,Computers,Desktops,HP,1386.82,2940.3,Supplier-Gamma-6,4.3
+PRD-0449,HP Monitors Model-763,Computers,Monitors,HP,24211.66,31267.55,Supplier-Beta-17,1.7
+PRD-0176,Studds Bike Accessories Model-434,Automotive,Bike Accessories,Studds,9563.84,17403.3,Supplier-Omega-15,4.1
+PRD-0142,HP Monitors Model-658,Computers,Monitors,HP,10867.14,23836.72,Supplier-Omega-11,1.4
+PRD-0044,Lego Action Figures Model-256,Toys,Action Figures,Lego,10840.08,18930.48,Supplier-Omega-2,2.1
+PRD-0234,Bata Sneakers Model-434,Footwear,,Bata,22510.28,28220.06,Supplier-Omega-16,3.6
+PRD-0652,Loreal Haircare Model-636,Beauty,Haircare,Loreal,14059.84,24015.08,Supplier-Omega-17,3.1
+PRD-0607,Funskool Board Games Model-296,Toys,Board Games,Funskool,1031.56,2256.06,,3.2
+PRD-0318,Hawkins Cookware Model-395,Kitchen,Cookware,Hawkins,2002.46,2452.33,Supplier-Omega-8,3.2
+PRD-0207,Milton Tools Model-884,Kitchen,Tools,Milton,19876.34,25607.27,Supplier-Delta-18,2.4
+PRD-0724,Bose Televisions Model-614,Electronics,Televisions,Bose,1099.61,2486.74,Supplier-Delta-15,1.5
+PRD-0228,Bosch Tools Model-503,Automotive,Tools,Bosch,17523.19,43367.39,Supplier-Gamma-5,1.2
+PRD-0387,Apple Laptops Model-202,Computers,,Apple,10437.13,12837.98,Supplier-Delta-9,-1.0
+PRD-0540,Royal Canin Grooming Model-146,Pet Supplies,Grooming,Royal Canin,8299.47,13221.01,Supplier-Beta-14,
+PRD-0032,Hasbro Educational Model-963,Toys,Educational,,3501.17,7372.91,Supplier-Gamma-18,10.0
+PRD-0409,Bose Televisions Model-697,Electronics,Televisions,Bose,8010.31,11408.41,Supplier-Delta-12,1.2
+PRD-0591,Mi Chargers Model-496,Mobile Accessories,Chargers,Mi,26155.09,39511.18,Supplier-Gamma-5,3.5
+PRD-0011,Lenovo Desktops Model-384,Computers,Desktops,Lenovo,14308.41,27707.47,Supplier-Gamma-19,4.9
+PRD-0205,Himalaya Grooming Model-560,Pet Supplies,Grooming,Himalaya,13793.21,24083.21,Supplier-Alpha-10,2.7
+PRD-0743,Britannia Staples Model-404,Grocery,Staples,Britannia,5179.13,8061.99,Supplier-Alpha-5,1.8
+PRD-0590,Whiskas Grooming Model-472,Pet Supplies,Grooming,Whiskas,36352.02,48106.83,Supplier-Gamma-12,3.9
+PRD-0160,LG Televisions Model-459,Electronics,Televisions,LG,13154.12,27763.04,Supplier-Beta-8,4.2
+PRD-0744,Levi Women Model-805,Clothing,Women,Levi,10640.51,"16,733.74",Supplier-Alpha-1,2.3
+PRD-0051,Hasbro Educational Model-887,Toys,Educational,Hasbro,13483.22,28595.08,Supplier-Omega-11,
+PRD-0484,Royal Canin Food Model-569,Pet Supplies,,Royal Canin,15380.95,30179.71,Supplier-Omega-3,2.7
+PRD-0186,ITC Staples Model-774,Grocery,Staples,ITC,28999.33,34840.25,Supplier-Alpha-13,3.9
+PRD-0737,Tata Snacks Model-146,Grocery,Snacks,Tata,23341.42,43231.42,Supplier-Alpha-10,2.7
+PRD-0026,3M Bike Accessories Model-786,Automotive,Bike Accessories,3M,20841.59,43350.09,Supplier-Delta-5,5.0
+PRD-0131,Canon Audio Model-315,Electronics,Audio,Canon,5285.84,12092.19,Supplier-Omega-16,2.0
+PRD-0208,Bosch Microwaves Model-741,Home Appliances,Microwaves,Bosch,3993.71,7891.04,Supplier-Delta-8,4.0
+PRD-0008,Pepperfry Sofas Model-325,Furniture,Sofas,Pepperfry,1686.15,4210.06,Supplier-Gamma-13,2.2
+PRD-0727,Adidas Sneakers Model-826,Footwear,Sneakers,Adidas,3284.35,5517.97,Supplier-Gamma-7,1.5
+PRD-0378,Maybelline Makeup Model-990,Beauty,Makeup,Maybelline,36946.5,47955.79,,3.4
+PRD-0547,Pepperfry Sofas Model-645,Furniture,Sofas,Pepperfry,33289.64,41913.44,Supplier-Gamma-14,3.4
+PRD-0300,Loreal Makeup Model-941,Beauty,Makeup,Loreal,27854.53,34244.35,Supplier-Alpha-20,3.8
+PRD-0196,Sony Cameras Model-868,Electronics,,Sony,677.13,₹1638.64,Supplier-Delta-12,
+PRD-0385,3M Car Accessories Model-614,Automotive,Car Accessories,3M,5298.36,6998.85,Supplier-Delta-5,
+PRD-0550,Lego Board Games Model-546,Toys,Board Games,Lego,8455.44,21130.7,Supplier-Delta-17,3.5
+PRD-0706,Penguin Fiction Model-562,Books,Fiction,Penguin,20349.97,37406.19,Supplier-Alpha-8,1.1
+PRD-0635,Nivia Cricket Model-201,Sports,Cricket,Nivia,27960.09,33099.68,Supplier-Beta-9,
+PRD-0565,Mattel Educational Model-894,Toys,Educational,Mattel,5110.02,6793.31,Supplier-Alpha-4,2.5
+PRD-0549,Hasbro Educational Model-173,Toys,Educational,Hasbro,30196.0,38557.02,Supplier-Alpha-3,4.0
+PRD-0391,Vega Bike Accessories Model-446,Automotive,Bike Accessories,Vega,26098.47,45941.59,Supplier-Beta-16,4.3
+PRD-0500,Dell Desktops Model-420,Computers,Desktops,Dell,19672.3,31256.83,Supplier-Alpha-12,2.3
+PRD-0014,Penguin Non-Fiction Model-467,Books,Non-Fiction,Penguin,57343.41,₹39075.74,Supplier-Omega-15,4.1
+PRD-0381,Loreal Makeup Model-425,Beauty,Makeup,Loreal,16685.64,21208.66,Supplier-Omega-6,2.5
+PRD-0557,Studds Tools Model-951,Automotive,Tools,,20733.88,"41,862.10",Supplier-Delta-7,1.3
+PRD-0375,Bosch Refrigerators Model-651,Home Appliances,Refrigerators,Bosch,25897.84,35823.14,Supplier-Omega-20,1.8
+PRD-0699,Nestle Staples Model-355,Grocery,Staples,Nestle,8954.41,13048.66,Supplier-Gamma-1,2.4
+PRD-0438,Samsung Washing Machines Model-864,Home Appliances,Washing Machines,Samsung,15386.93,27887.4,Supplier-Omega-8,2.4
+PRD-0709,Whirlpool Washing Machines Model-663,Home Appliances,Washing Machines,Whirlpool,27648.98,43013.33,Supplier-Alpha-19,2.6
+PRD-0325,Nivia Cricket Model-946,Sports,Cricket,Nivia,6308.54,11822.8,Supplier-Beta-3,2.0
+PRD-0304,FabIndia Men Model-411,Clothing,Men,FabIndia,4116.09,5878.97,Supplier-Omega-14,2.6
+PRD-0647,Canon Audio Model-648,ELECTRONICS,Audio,Canon,3002.35,3547.98,Supplier-Alpha-10,2.6
+PRD-0112,ITC Snacks Model-692,Grocery,Snacks,ITC,35709.74,49265.04,Supplier-Gamma-16,4.7
+PRD-0631,Vega Bike Accessories Model-127,Automotive,Bike Accessories,Vega,16207.82,20254.05,,4.1
+PRD-0595,Loreal Makeup Model-671,Beauty,Makeup,Loreal,26138.85,47910.63,Supplier-Alpha-20,3.0
+PRD-0019,Maybelline Haircare Model-691,Beauty,Haircare,Maybelline,2182.86,2840.76,Supplier-Beta-7,3.5
+PRD-0716,IKEA Sofas Model-167,Furniture,,IKEA,851.1,1819.35,Supplier-Gamma-11,
+PRD-0135,Loreal Skincare Model-749,Beauty,Skincare,Loreal,15389.82,10401.02,Supplier-Gamma-6,1.5
+PRD-0238,Tata Staples Model-458,Grocery,Staples,Tata,8203.75,11699.16,Supplier-Delta-5,1.8
+PRD-0179,Godrej Tables Model-730,Furniture,Tables,Godrej,7472.18,17111.08,Supplier-Alpha-17,3.8
+PRD-0364,Nestle Beverages Model-525,Grocery,Beverages,Nestle,9272.05,18972.14,Supplier-Alpha-1,2.3
+PRD-0281,Mi Power Banks Model-584,Mobile Accessories,Power Banks,Mi,34510.91,"41,937.20",Supplier-Beta-7,3.1
+PRD-0077,Nike Sneakers Model-172,Footwear,Sneakers,Nike,27563.36,34861.41,Supplier-Delta-2,4.0
+PRD-0192,Prestige Tools Model-566,Kitchen,Tools,Prestige,7044.02,11231.26,Supplier-Alpha-3,1.2
+PRD-0604,Tupperware Tools Model-620,Kitchen,Tools,Tupperware,21660.92,34674.1,Supplier-Delta-11,
+PRD-0172,Samsung Cameras Model-472,Electronics,Cameras,Samsung,16138.58,38457.44,Supplier-Omega-17,1.3
+PRD-0022,IKEA Chairs Model-975,Furniture,Chairs,IKEA,14415.29,₹35306.28,Supplier-Gamma-16,2.3
+PRD-0043,Funskool Action Figures Model-193,Toys,Action Figures,Funskool,16092.41,24109.27,Unknown,3.9
+PRD-0371,Zara Kids Model-940,Clothing,Kids,Zara,31591.75,38605.5,Supplier-Omega-14,4.1
+PRD-0472,Pedigree Food Model-383,Pet Supplies,Food,Pedigree,16294.84,27608.54,Supplier-Omega-6,1.1
+PRD-0045,Whiskas Grooming Model-911,Pet Supplies,Grooming,Whiskas,15149.14,35268.96,Supplier-Alpha-2,3.7
+PRD-0589,Bose Televisions Model-549,Electronics,Televisions,Bose,23758.7,40381.14,Supplier-Alpha-4,6.0
+PRD-0530,Bosch Tools Model-153,Automotive,Tools,Bosch,27680.44,41138.06,Supplier-Beta-20,
+PRD-0741,Vega Tools Model-757,Automotive,Tools,Vega,8728.86,12302.01,Supplier-Omega-8,
+PRD-0715,Nivia Football Model-578,Sports,Football,Nivia,59249.94,42617.07,Supplier-Beta-10,4.5
+PRD-0423,H&M Kids Model-381,Clothing,Kids,H&M,20182.4,29374.06,Supplier-Omega-13,5.0
+PRD-0227,Studds Car Accessories Model-230,Automotive,Car Accessories,Studds,1235.8,"1,572.08",Supplier-Gamma-8,
+PRD-0554,H&M Kids Model-396,Clothing,Kids,H&M,2618.35,4562.33,Supplier-Alpha-3,3.4
+PRD-0610,IKEA Beds Model-777,Furniture,Beds,IKEA,19281.59,27812.54,Supplier-Alpha-10,1.8
+PRD-0158,Mattel Action Figures Model-508,Toys,Action Figures,Mattel,18753.55,₹30423.99,Supplier-Alpha-10,3.9
+PRD-0242,LG Refrigerators Model-344,Home Appliances,Refrigerators,LG,26838.88,32458.7,Supplier-Beta-10,4.4
+PRD-0099,Yonex Fitness Model-318,Sports,Fitness,Yonex,4365.31,6702.6,Supplier-Alpha-10,2.1
+PRD-0466,Puma Casual Model-757,Footwear,Casual,Puma,11593.7,"26,352.59",Supplier-Beta-15,3.2
+PRD-0308,Mi Chargers Model-980,Mobile Accessories,Chargers,Mi,3616.34,5379.63,Supplier-Alpha-17,1.9
+PRD-0221,Zara Women Model-871,Clothing,Women,Zara,2090.54,3163.95,Supplier-Beta-18,1.8
+PRD-0577,IKEA Chairs Model-460,Furniture,Chairs,IKEA,12783.44,17609.43,Supplier-Beta-14,
+PRD-0435,Hasbro Action Figures Model-643,Toys,Action Figures,Hasbro,14270.61,25782.93,Supplier-Gamma-8,2.1
+PRD-0583,Tata Staples Model-560,Grocery,Staples,Tata,2426.47,3934.38,Supplier-Delta-1,1.2
+PRD-0675,Yonex Fitness Model-495,Sports,Fitness,Yonex,18219.86,29448.28,Supplier-Beta-11,3.9
+PRD-0654,Spigen Power Banks Model-499,Mobile Accessories,Power Banks,Spigen,10538.93,13620.76,Supplier-Gamma-5,4.1
+PRD-0166,Apple Monitors Model-453,Computers,Monitors,,10110.94,14933.07,Supplier-Beta-8,10.0
+PRD-0348,Lenovo Laptops Model-358,Computers,Laptops,Lenovo,3913.01,8378.2,Supplier-Gamma-20,-1.0
+PRD-0482,Nike Casual Model-562,Footwear,Casual,,29470.82,40275.48,Supplier-Omega-6,3.1
+PRD-0213,Nike Men Model-492,Clothing,Men,Nike,16967.62,₹29884.04,Supplier-Delta-20,3.7
+PRD-0421,Milton Tools Model-816,Kitchen,Tools,Milton,12120.81,24067.81,Supplier-Alpha-15,
+PRD-0134,Nestle Beverages Model-966,Grocery,Beverages,Nestle,7505.41,13772.85,Supplier-Beta-4,2.1
+PRD-0592,Vega Bike Accessories Model-795,Automotive,Bike Accessories,Vega,24402.85,34543.48,Supplier-Delta-5,4.0
+PRD-0400,Whirlpool Refrigerators Model-554,Home Appliances,Refrigerators,Whirlpool,20117.56,42029.96,Supplier-Omega-5,3.4
+PRD-0718,MAC Haircare Model-638,Beauty,Haircare,,27299.32,46582.89,Supplier-Gamma-15,2.2
+PRD-0024,MAC Makeup Model-750,Beauty,Makeup,MAC,26778.39,34417.1,,3.1
+PRD-0571,Himalaya Grooming Model-575,Pet Supplies,Grooming,Himalaya,21291.13,42328.07,,2.0
+PRD-0454,Hawkins Cookware Model-650,Kitchen,Cookware,Hawkins,23815.03,35717.26,Supplier-Gamma-2,4.4
+PRD-0157,Lakme Makeup Model-328,Beauty,Makeup,Lakme,36901.66,49024.11,Supplier-Omega-10,4.5
+PRD-0181,Nike Casual Model-411,Footwear,,Nike,11499.26,23032.95,Supplier-Delta-5,4.6
+PRD-0553,Bosch Microwaves Model-826,Home Appliances,Microwaves,Bosch,5223.74,9259.33,Supplier-Gamma-19,1.6
+PRD-0235,Studds Bike Accessories Model-384,Automotive,Bike Accessories,Studds,25180.29,42043.46,Supplier-Alpha-12,3.6
+PRD-0128,Hawkins Cookware Model-370,Kitchen,Cookware,Hawkins,15711.46,36319.74,Supplier-Omega-4,10.0
+PRD-0081,Royal Canin Food Model-785,Pet Supplies,Food,Royal Canin,30893.35,47937.19,Supplier-Omega-13,2.8
+PRD-0256,Hasbro Board Games Model-170,Toys,Board Games,Hasbro,39405.15,46687.91,Supplier-Alpha-7,3.8
+PRD-0586,Sony Audio Model-930,Electronics,Audio,Sony,260.48,312.43,Supplier-Beta-16,4.7
+PRD-0116,Milton Tools Model-344,Kitchen,Tools,Milton,52968.89,41466.75,Supplier-Delta-16,4.5
+PRD-0272,Mi Power Banks Model-669,Mobile Accessories,Power Banks,Mi,38437.47,45873.91,Supplier-Alpha-16,1.7
+PRD-0700,Nike Sneakers Model-853,Footwear,Sneakers,Nike,12879.87,₹25786.63,Supplier-Delta-10,3.1
+PRD-0620,3M Bike Accessories Model-476,Automotive,Bike Accessories,,2132.62,2791.39,Supplier-Gamma-11,2.4
+PRD-0418,3M Bike Accessories Model-493,Automotive,Bike Accessories,3M,27676.29,43182.73,,4.3
+PRD-0695,Yonex Cricket Model-479,Sports,Cricket,Yonex,5890.29,₹10855.38,Supplier-Beta-1,2.3
+PRD-0108,Lakme Haircare Model-158,Beauty,Haircare,Lakme,5045.21,"8,283.47",,2.9
+PRD-0646,Cosco Cricket Model-956,Sports,Cricket,Cosco,28347.01,46632.87,Supplier-Omega-20,4.1
+PRD-0745,Hawkins Cookware Model-550,Kitchen,,Hawkins,9358.02,11972.57,Supplier-Alpha-8,3.2
+PRD-0368,HP Monitors Model-984,Computers,Monitors,,18311.7,27016.04,Supplier-Alpha-6,4.6
+PRD-0031,Canon Cameras Model-324,Electronics,Cameras,Canon,36852.48,"44,600.25",Supplier-Omega-7,1.2
+PRD-0417,Studds Bike Accessories Model-965,Automotive,Bike Accessories,Studds,12718.39,20754.5,Supplier-Delta-5,4.6
+PRD-0711,Godrej Sofas Model-912,Furniture,Sofas,Godrej,8787.1,19588.93,Supplier-Beta-13,2.5
+PRD-0247,Levi Kids Model-896,Clothing,Kids,Levi,16450.1,29347.44,Supplier-Beta-13,4.6
+PRD-0464,Milton Storage Model-294,Kitchen,Storage,Milton,7509.77,13651.48,,3.7
+PRD-0685,Apple Monitors Model-459,Computers,Monitors,Apple,7490.07,11566.93,Supplier-Gamma-11,1.3
+PRD-0619,3M Tools Model-416,Automotive,Tools,3M,30717.37,37265.97,Supplier-Omega-1,
+PRD-0218,Studds Car Accessories Model-498,Automotive,Car Accessories,Studds,16869.76,38009.77,Supplier-Omega-2,4.3
+PRD-0057,Lenovo Monitors Model-961,Computers,Monitors,Lenovo,9193.18,11913.45,Supplier-Omega-10,4.4
+PRD-0341,Britannia Beverages Model-193,Grocery,Beverages,Britannia,4380.0,3377.62,Supplier-Omega-13,2.8
+PRD-0529,Royal Canin Toys Model-895,Pet Supplies,Toys,Royal Canin,18494.76,34175.03,Supplier-Omega-14,4.1
+PRD-0459,Lenovo Desktops Model-133,Computers,Desktops,Lenovo,16213.4,38279.55,Supplier-Omega-6,1.9
+PRD-0584,Mattel Educational Model-429,Toys,Educational,,80.02,166.85,Supplier-Alpha-11,3.5
+PRD-0260,Nike Women Model-545,Clothing,Women,Nike,16798.31,24416.1,,1.9
+PRD-0511,Whirlpool Microwaves Model-394,Home Appliances,Microwaves,Whirlpool,28200.75,48728.64,Supplier-Gamma-8,2.6
+PRD-0690,Decathlon Football Model-131,Sports,Football,Decathlon,1327.23,1884.76,Supplier-Gamma-20,4.1
+PRD-0170,Oxford Fiction Model-546,Books,,Oxford,18219.01,22994.37,Supplier-Alpha-19,2.9
+PRD-0398,Samsung Microwaves Model-332,Home Appliances,Microwaves,Samsung,2962.25,3912.19,Supplier-Gamma-15,3.2
+PRD-0581,Nike Formal Model-760,Footwear,Formal,Nike,12872.55,23011.09,Supplier-Beta-19,3.5
+PRD-0254,Asus Laptops Model-901,Computers,Laptops,Asus,16033.74,24937.47,Supplier-Delta-20,3.2
+PRD-0574,Nivia Football Model-254,Sports,Football,Nivia,14912.53,31185.46,Supplier-Alpha-12,1.5
+PRD-0359,Hasbro Action Figures Model-664,Toys,Action Figures,Hasbro,28699.78,35717.5,Supplier-Alpha-3,1.9
+PRD-0040,Oxford Academic Model-651,Books,Academic,Oxford,20855.47,29614.84,Supplier-Gamma-18,3.8
+PRD-0722,Samsung Washing Machines Model-231,Home Appliances,Washing Machines,Samsung,136.02,303.85,Supplier-Alpha-5,3.9
+PRD-0664,Samsung Audio Model-930,Electronics,Audio,Samsung,14484.71,35791.89,Supplier-Beta-12,1.8
+PRD-0336,Spigen Cases Model-883,Mobile Accessories,Cases,Spigen,8931.09,21965.3,Supplier-Alpha-7,2.9
+PRD-0437,Lenovo Laptops Model-944,Computers,Laptops,Lenovo,15427.54,22976.5,Supplier-Omega-19,2.9
+PRD-0339,Oxford Academic Model-552,Books,Academic,Oxford,13510.64,19604.53,Supplier-Gamma-6,1.1
+PRD-0373,Canon Audio Model-693,Electronics,Audio,Canon,19804.36,29942.21,Supplier-Alpha-12,4.6
+PRD-0094,Bosch Washing Machines Model-355,Home Appliances,Washing Machines,Bosch,1011.73,1664.18,Supplier-Gamma-10,2.6
+PRD-0366,Asus Desktops Model-248,Computers,Desktops,Asus,14732.68,30217.7,Supplier-Gamma-9,1.6
+PRD-0521,Mi Cases Model-819,Mobile Accessories,Cases,,14343.08,34957.35,Supplier-Beta-14,1.3
+PRD-0072,Mi Power Banks Model-548,Mobile Accessories,Power Banks,Mi,2063.14,3817.96,,3.2
+PRD-0280,LG Televisions Model-779,Electronics,Televisions,LG,11083.89,23857.14,Supplier-Delta-10,
+PRD-0382,Bosch Microwaves Model-822,Home Appliance,Microwaves,Bosch,10966.96,14432.08,Supplier-Delta-6,2.2
+PRD-0473,Nike Men Model-653,Clothing,Men,Nike,9801.05,12731.73,Supplier-Gamma-11,4.1
+PRD-0487,Spigen Power Banks Model-602,Mobile Accessories,Power Banks,Spigen,24351.68,₹47223.27,Supplier-Gamma-4,1.5
+PRD-0347,Cosco Football Model-565,Sports,Football,Cosco,15581.29,34701.19,Supplier-Beta-3,2.7
+PRD-0575,Nike Formal Model-580,Footwear,Formal,Nike,16499.81,23738.15,Supplier-Beta-2,2.8
+PRD-0492,Nestle Staples Model-490,Grocery,Staples,Nestle,14943.22,31680.38,Supplier-Omega-13,4.5
+PRD-0570,Loreal Skincare Model-281,Beauty,Skincare,Loreal,28825.1,42084.41,Supplier-Beta-5,3.1
+PRD-0475,Dell Monitors Model-234,Computers,Monitors,Dell,13545.28,25300.12,Supplier-Alpha-9,4.2
+PRD-0601,Pedigree Grooming Model-417,Pet Supplies,Grooming,Pedigree,27806.47,49029.81,Supplier-Alpha-5,4.4
+PRD-0311,Oxford Academic Model-201,Books,,Oxford,17325.83,20455.49,Supplier-Omega-5,4.8
+PRD-0252,IKEA Sofas Model-813,Furniture,Sofas,IKEA,23980.41,30397.38,Supplier-Omega-7,2.3
+PRD-0122,ITC Beverages Model-457,Grocery,Beverages,ITC,1557.2,3814.19,Supplier-Beta-14,4.7
+PRD-0323,Bosch Refrigerators Model-217,Home Appliances,Refrigerators,,32641.13,41265.38,Supplier-Omega-16,3.1
+PRD-0146,Dell Desktops Model-466,Computers,Desktops,Dell,32710.12,48400.29,Supplier-Gamma-8,2.9
+PRD-0653,Nike Formal Model-638,Footwear,Formal,Nike,18810.57,29058.82,Supplier-Gamma-6,1.6
+PRD-0666,Prestige Storage Model-400,Kitchen,Storage,Prestige,7190.46,13899.42,Supplier-Alpha-19,3.9
+PRD-0594,Nestle Staples Model-167,Grocery,Staples,Nestle,2972.58,4380.93,Supplier-Omega-19,
+PRD-0379,LG Refrigerators Model-685,Home Appliances,Refrigerators,LG,10898.02,17159.09,Supplier-Alpha-18,1.1
+PRD-0682,Vega Car Accessories Model-776,Automotive,Car Accessories,Vega,2206.19,3296.07,Supplier-Omega-2,3.2
+PRD-0343,Mi Chargers Model-786,Mobile Accessories,Chargers,Mi,22497.38,27165.32,Supplier-Delta-5,3.5
+PRD-0707,Tupperware Cookware Model-189,Kitchen,Cookware,Tupperware,1323.81,1791.51,Supplier-Omega-14,2.2
+PRD-0627,IKEA Beds Model-391,Furniture,Beds,IKEA,15000.12,24079.04,Supplier-Alpha-9,4.5
+PRD-0415,Adidas Formal Model-701,Footwear,Formal,Adidas,15279.83,30205.89,Supplier-Delta-10,4.0
+PRD-0720,Sony Cameras Model-228,Electronics,Cameras,Sony,10361.05,14105.48,Supplier-Alpha-7,2.4
+PRD-0243,Tupperware Cookware Model-785,Kitchen,,Tupperware,12329.94,24005.13,Supplier-Beta-15,2.3
+PRD-0662,HP Desktops Model-950,Computers,Desktops,HP,12491.67,14885.29,Supplier-Gamma-2,2.9
+PRD-0257,Maybelline Haircare Model-112,Beauty,Haircare,Maybelline,194.13,426.34,Supplier-Omega-18,3.8
+PRD-0005,Penguin Non-Fiction Model-130,Books,Non-Fiction,Penguin,26033.42,33854.66,Supplier-Gamma-15,3.6
+PRD-0559,Dell Desktops Model-349,Computers,Desktops,Dell,33850.31,₹45779.91,Supplier-Delta-9,3.8
+PRD-0342,Nestle Beverages Model-518,Grocery,Beverages,Nestle,7400.18,11489.82,Supplier-Omega-11,2.1
+PRD-0640,Spigen Power Banks Model-181,Mobile Accessories,Power Banks,Spigen,14561.31,20904.43,Supplier-Delta-19,4.2
+PRD-0190,Decathlon Cricket Model-125,Sports,Cricket,Decathlon,35563.67,48656.86,Supplier-Delta-12,3.9
+PRD-0137,Hasbro Action Figures Model-889,Toys,Action Figures,Hasbro,26955.45,37862.11,Supplier-Beta-1,4.8
+PRD-0618,Bose Cameras Model-339,Electronics,Cameras,Bose,27701.38,39777.32,Supplier-Omega-3,1.3
+PRD-0178,Samsung Televisions Model-530,Electronic,Televisions,Samsung,18039.45,29003.51,Supplier-Omega-16,1.4
+PRD-0566,Nivia Fitness Model-844,Sports,Fitness,Nivia,12577.11,24213.56,,3.3
+PRD-0680,Mattel Board Games Model-658,Toys,Board Games,Mattel,20757.34,49459.79,Supplier-Omega-2,
+PRD-0140,Himalaya Grooming Model-674,Pet Supplies,Grooming,Himalaya,812.63,1158.13,Supplier-Beta-20,3.5
+PRD-0037,Britannia Staples Model-505,Grocery,Staples,Britannia,19089.35,44023.98,Supplier-Omega-4,4.3
+PRD-0069,Britannia Staples Model-316,Grocery,Staples,Britannia,38332.07,45959.83,Supplier-Beta-8,1.1
+PRD-0600,Bata Casual Model-232,Footwear,Casual,Bata,13363.5,31879.72,Supplier-Beta-3,4.2
+PRD-0092,FabIndia Men Model-559,Clothing,Men,FabIndia,10888.76,13034.5,Supplier-Gamma-16,4.7
+PRD-0676,Penguin Non-Fiction Model-608,Books,Non-Fiction,Penguin,39988.14,49117.41,Supplier-Beta-14,
+PRD-0562,Samsung Washing Machines Model-326,Home Appliances,Washing Machines,Samsung,28179.38,47467.87,Supplier-Omega-5,
+PRD-0532,Levi Kids Model-790,Clothing,Kids,Levi,32781.5,40761.97,Supplier-Beta-2,2.3
+PRD-0458,Himalaya Food Model-730,Pet Supplies,Food,Himalaya,12080.81,24875.75,Supplier-Omega-6,1.6
+PRD-0085,Whirlpool Refrigerators Model-774,Home Appliances,Refrigerators,Whirlpool,7889.26,16816.22,Supplier-Gamma-9,3.1
+PRD-0255,Nivia Cricket Model-645,Sports,Cricket,Nivia,6874.99,16550.91,Supplier-Omega-2,1.2
+PRD-0525,Levi Men Model-193,Clothing,Men,Levi,13890.31,21114.11,Supplier-Gamma-3,4.1
